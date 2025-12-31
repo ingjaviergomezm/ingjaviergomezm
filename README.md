@@ -6,7 +6,7 @@
 # Javier Gómez M
 
 **Ingeniero Industrial | Analítica de Datos | IA aplicada**  
-Oil & Gas · Energía · Renovables (Eficiencia Energética)  
+Oil & Gas · Energía · Renovables y Eficiencia Energética  
 Python · SQL · Power BI · Excel (VBA) · Visual Basic
 
 <a href="https://www.ingjaviergomezm.com" target="_blank">Sitio</a> •
