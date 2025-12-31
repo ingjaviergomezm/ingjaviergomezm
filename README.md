@@ -3,11 +3,11 @@
 <!-- Banner (opcional): sube una imagen a /assets/banner.png y descomenta la línea de abajo) -->
 <!-- <img src="assets/banner.png" alt="Banner" width="100%" /> -->
 
-# Javier Gómez M
+# Javier Gómez M.
 
 **Ingeniero Industrial | Analítica de Datos | IA aplicada**  
-Oil & Gas · Energía · Renovables y Eficiencia Energética  
-Python · SQL · Power BI · Excel (VBA) · Visual Basic
+Oil & Gas · Energía · Renovables · Eficiencia Energética.  
+Python · SQL · Power BI · Excel (VBA) · Visual Basic.
 
 <a href="https://www.javiergomezm.com" target="_blank">Sitio</a> •
 <a href="mailto:myazumi62@gmail.com">Email</a> •
