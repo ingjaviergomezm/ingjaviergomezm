@@ -9,7 +9,7 @@
 Oil & Gas · Energía · Renovables y Eficiencia Energética  
 Python · SQL · Power BI · Excel (VBA) · Visual Basic
 
-<a href="https://www.ingjaviergomezm.com" target="_blank">Sitio</a> •
+<a href="https://www.javiergomezm.com" target="_blank">Sitio</a> •
 <a href="mailto:myazumi62@gmail.com">Email</a> •
 <a href="https://github.com/ingjaviergomezm" target="_blank">GitHub</a>
 
@@ -52,7 +52,7 @@ Trabajo en operación y mejora continua con enfoque en **confiabilidad**, **efic
 ---
 
 ## 📌 Contacto
-- Web: https://www.ingjaviergomezm.com  
+- Web: https://www.javiergomezm.com  
 - Email: myazumi62@gmail.com
 
 ---
