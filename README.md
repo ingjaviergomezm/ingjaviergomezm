@@ -6,24 +6,24 @@
 # Javier Gómez M.
 
 **Ingeniero Industrial | Analítica de Datos | IA aplicada**  
-Oil & Gas · Energía · Renovables · Eficiencia Energética.  
-Python · SQL · Power BI · Excel (VBA) · Visual Basic.
+Oil & Gas · Energía · Renovables · Eficiencia Energética  
+Python · SQL · Power BI · Excel (VBA) · Visual Basic
 
-<a href="https://www.javiergomezm.com" target="_blank">Sitio</a> •
+<a href="https://ingjaviergomezm.github.io/" target="_blank" rel="noreferrer">Portafolio</a> •
 <a href="mailto:myazumi62@gmail.com">Email</a> •
-<a href="https://github.com/ingjaviergomezm" target="_blank">GitHub</a>
+<a href="https://github.com/ingjaviergomezm" target="_blank" rel="noreferrer">GitHub</a>
 
 </div>
 
 ---
 
 ## 👤 Perfil
-Trabajo en operación y mejora continua con enfoque en **confiabilidad**, **eficiencia energética** y **analítica aplicada**. Me interesa construir soluciones que conecten **datos + ingeniería + decisiones** en entornos reales (Oil & Gas / energía).
+Trabajo en operación y mejora continua con enfoque en **confiabilidad**, **eficiencia energética** y **analítica aplicada**. Me interesa construir soluciones que conecten **datos + ingeniería + decisiones** en entornos reales (Oil & Gas / energía / renovables).
 
 ---
 
 ## 🧪 Stack (lo que realmente uso)
-- **Datos/BI:** Power BI, DAX (si aplica), modelado, ETL práctico
+- **Datos/BI:** Power BI, modelado, ETL práctico
 - **Programación:** Python (pandas), SQL
 - **Automatización:** Excel avanzado, **VBA**, Visual Basic
 - **Ingeniería:** eficiencia energética, renovables, confiabilidad/operaciones
@@ -31,10 +31,10 @@ Trabajo en operación y mejora continua con enfoque en **confiabilidad**, **efic
 ---
 
 ## 🚀 Proyectos destacados
-> (Deja estos placeholders hoy; mañana los llenamos con 3 repos reales y los pineas)
 
-- **Proyecto 01 — Analítica aplicada a operaciones**  
-  Repo: `link` · Demo: `link` · Resultado: `métrica/impacto`
+- **Web APP de Autodiagnóstico Energético Interactivo (ISO 50001)**  
+  Repo: https://github.com/ingjaviergomezm/autodiagnostico-eficiencia-energetica  
+  Demo: https://ingjaviergomezm.github.io/autodiagnostico-eficiencia-energetica/
 
 - **Proyecto 02 — Dashboard Power BI (energía / producción / confiabilidad)**  
   Repo: `link` · Reporte: `link` · Modelo: `breve`
@@ -45,15 +45,15 @@ Trabajo en operación y mejora continua con enfoque en **confiabilidad**, **efic
 ---
 
 ## 🧭 Roadmap (IA aplicada a analítica)
-- [ ] Portafolio de **casos** (problem → data → modelo → decisión → resultado)
+- [ ] Portafolio de **casos** (problema → datos → modelo → decisión → resultado)
 - [ ] Serie de notebooks: limpieza, features, validación, métricas
 - [ ] Un proyecto end-to-end con despliegue (API o dashboard)
 
 ---
 
 ## 📌 Contacto
-- Web: https://www.javiergomezm.com  
-- Email: myazumi62@gmail.com
+- Portafolio: https://ingjaviergomezm.github.io/
+- Email: ingjaviergomez546@outlook.com
 
 ---
 
