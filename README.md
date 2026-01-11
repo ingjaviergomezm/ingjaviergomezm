@@ -36,8 +36,8 @@ Trabajo en operación y mejora continua con enfoque en **confiabilidad**, **efic
   Repo: https://github.com/ingjaviergomezm/autodiagnostico-eficiencia-energetica  
   Demo: https://ingjaviergomezm.github.io/autodiagnostico-eficiencia-energetica/
 
-- **Proyecto 02 — Dashboard Power BI (energía / producción / confiabilidad)**  
-  Repo: `link` · Reporte: `link` · Modelo: `breve`
+- **Proyecto 02 — Dashboard de Gestión de Mantenimiento bajo ISO 14224**  
+  Repo: `https://github.com/ingjaviergomezm/dashboard_mantenimiento_y_confiabilidad_iso14224` · Reporte: `link` · Modelo: `breve`
 
 - **Proyecto 03 — Automatización Excel/VBA para reporting operativo**  
   Repo: `link` · Caso de uso: `breve`
