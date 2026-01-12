@@ -10,7 +10,7 @@ Oil & Gas · Energía · Renovables · Eficiencia Energética
 Python · SQL · Power BI · Excel (VBA) · Visual Basic
 
 <a href="https://ingjaviergomezm.github.io/" target="_blank" rel="noreferrer">Portafolio</a> •
-<a href="mailto:myazumi62@gmail.com">Email</a> •
+<a href="mailto:ingjaviergomez222@gmail.com">Email</a> •
 <a href="https://github.com/ingjaviergomezm" target="_blank" rel="noreferrer">GitHub</a>
 
 </div>
