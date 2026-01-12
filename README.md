@@ -30,7 +30,7 @@ Trabajo en operación y mejora continua con enfoque en **confiabilidad**, **efic
 
 ---
 
-## 🚀 Proyectos destacados
+## Proyectos destacados
 
 - **Web APP de Autodiagnóstico Energético Interactivo (ISO 50001)**  
   Repo: https://github.com/ingjaviergomezm/autodiagnostico-eficiencia-energetica  
@@ -44,7 +44,7 @@ Trabajo en operación y mejora continua con enfoque en **confiabilidad**, **efic
 
 ---
 
-## 🧭 Roadmap (IA aplicada a analítica)
+## Roadmap (IA aplicada a analítica)
 - [ ] Portafolio de **casos** (problema → datos → modelo → decisión → resultado)
 - [ ] Serie de notebooks: limpieza, features, validación, métricas
 - [ ] Un proyecto end-to-end con despliegue (API o dashboard)
