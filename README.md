@@ -53,8 +53,7 @@ Trabajo en operación y mejora continua con enfoque en **confiabilidad**, **efic
 
 ## 📌 Contacto
 - Portafolio: https://ingjaviergomezm.github.io/
-- Email: ingjaviergomez546@outlook.com
-
+- Email: ingjaviergomez222@gmail.com
 ---
 
 <div align="center">
