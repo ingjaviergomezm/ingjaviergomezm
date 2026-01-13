@@ -39,8 +39,8 @@ Trabajo en operación y mejora continua con enfoque en **confiabilidad**, **efic
 - **Power BI — Dashboard de Gestión de Mantenimiento basado en condición bajo ISO 14224**  
   Repo: https://github.com/ingjaviergomezm/dashboard_mantenimiento_y_confiabilidad_iso14224
 
-- **Proyecto 03 — Automatización Excel/VBA para reporting operativo**  
-  Repo: `link` · Caso de uso: `breve`
+- **Automatización Excel/VBA para reporting operativo de programacion de turnos y novedades de nomina a RRHH**  
+  Repo: https://github.com/ingjaviergomezm/Programacion_Calculo_Reporte_Divulgacion_de_Turnos_Automatizado_VBA · Caso de uso: #Reporting #Supervisión
 
 ---
 
