@@ -32,7 +32,11 @@ Trabajo en operación y mejora continua con enfoque en **confiabilidad**, **efic
 
 ## Proyectos destacados
 
-- **Web APP de Autodiagnóstico Energético Interactivo (ISO 50001)**  
+- **Web APP Planificador técnico-financiero de proyectos de energía solar con inteligencia artificial para el mercado colombiano**  
+  Repo: [https://github.com/ingjaviergomezm/autodiagnostico-eficiencia-energetica ](https://github.com/ingjaviergomezm/solar-project-planner)
+  Demo: https://Link/
+
+  - **Web APP de Autodiagnóstico Energético Interactivo (ISO 50001)**  
   Repo: https://github.com/ingjaviergomezm/autodiagnostico-eficiencia-energetica  
   Demo: https://ingjaviergomezm.github.io/autodiagnostico-eficiencia-energetica/
 
