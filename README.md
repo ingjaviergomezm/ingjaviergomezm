@@ -32,19 +32,25 @@ Trabajo en operación y mejora continua con enfoque en **confiabilidad**, **efic
 
 ## Proyectos destacados
 
-- **Web APP Planificador técnico-financiero de proyectos de energía solar con inteligencia artificial para el mercado colombiano**  
-  Repo: https://github.com/ingjaviergomezm/solar-project-planner
-  Demo: https://Link/
+- **Web App — Planificador técnico-financiero de proyectos solares con IA (Colombia)**  
+  Aplicación web para la evaluación técnica, económica y financiera de sistemas fotovoltaicos, incorporando modelos de inteligencia artificial y supuestos normativos del mercado colombiano.  
+  **Repo:** https://github.com/ingjaviergomezm/solar-project-planner  
+  **Demo:** https://solar-project-planner.vercel.app/
 
-- **Web APP de Autodiagnóstico Energético Interactivo (ISO 50001)**  
-  Repo: https://github.com/ingjaviergomezm/autodiagnostico-eficiencia-energetica  
-  Demo: https://ingjaviergomezm.github.io/autodiagnostico-eficiencia-energetica/
+- **Web App — Autodiagnóstico interactivo de eficiencia energética (ISO 50001)**  
+  Herramienta web para evaluar el nivel de madurez en gestión energética, alineada con los requisitos de la norma ISO 50001 y orientada a procesos industriales.  
+  **Repo:** https://github.com/ingjaviergomezm/autodiagnostico-eficiencia-energetica  
+  **Demo:** https://ingjaviergomezm.github.io/autodiagnostico-eficiencia-energetica/
 
-- **Power BI — Dashboard de Gestión de Mantenimiento basado en condición bajo ISO 14224**  
-  Repo: https://github.com/ingjaviergomezm/dashboard_mantenimiento_y_confiabilidad_iso14224
+- **Power BI — Dashboard de gestión de mantenimiento y confiabilidad (ISO 14224)**  
+  Dashboard analítico para seguimiento de activos, fallas y desempeño de mantenimiento basado en la taxonomía y principios de la norma ISO 14224.  
+  **Repo:** https://github.com/ingjaviergomezm/dashboard_mantenimiento_y_confiabilidad_iso14224
 
-- **Automatización Excel/VBA para reporting operativo de programacion de turnos y novedades de nomina a RRHH**  
-  Repo: https://github.com/ingjaviergomezm/Programacion_Calculo_Reporte_Divulgacion_de_Turnos_Automatizado_VBA · Caso de uso: #Reporting #Supervisión
+- **Excel / VBA — Automatización de programación de turnos y reporte de nómina**  
+  Sistema automatizado para la programación operativa de turnos, cálculo de novedades de nómina y generación de reportes para RRHH, enfocado en supervisión operativa y cumplimiento laboral.  
+  **Repo:** https://github.com/ingjaviergomezm/Programacion_Calculo_Reporte_Divulgacion_de_Turnos_Automatizado_VBA  
+  **Caso de uso:** Reporting · Supervisión operativa
+
 
 ---
 
