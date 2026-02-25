@@ -5,9 +5,9 @@
 
 # Javier Gómez M.
 
-**Ingeniero Industrial | Analítica de Datos | IA aplicada**  
+**Ingeniero Industrial | Analítica de Datos | IA Agéntica aplicada**  
 Oil & Gas · Energía · Renovables · Eficiencia Energética  
-Python · SQL · Power BI · Excel (VBA) · Visual Basic
+Python · SQL · Power BI · Excel (VBA) · Antigravity · Gemini API
 
 <a href="https://ingjaviergomezm.github.io/" target="_blank" rel="noreferrer">Portafolio</a> •
 <a href="mailto:ingjaviergomez222@gmail.com">Email</a> •
@@ -22,15 +22,21 @@ Trabajo en operación y mejora continua con enfoque en **confiabilidad**, **efic
 
 ---
 
-## 🧪 Stack (lo que realmente uso)
+## 🧠 Stack (lo que realmente uso)
 - **Datos/BI:** Power BI, modelado, ETL práctico
 - **Programación:** Python (pandas), SQL
 - **Automatización:** Excel avanzado, **VBA**, Visual Basic
+- **IA Agéntica:** Antigravity (Google DeepMind), Gemini API, arquitecturas de Skills, MCP
 - **Ingeniería:** eficiencia energética, renovables, confiabilidad/operaciones
 
 ---
 
 ## Proyectos destacados
+
+### 🦖 El Camello — Stack de 16 Agentes de IA Especializados *(IA Agéntica)*
+Arquitectura de 16 Skills para Antigravity (Google DeepMind), organizadas como una oficina corporativa de 5 pisos con un orquestador PM. Cada agente ejecuta tareas profesionales complejas: documentos, dashboards, presentaciones, webapps, arte generativo y MCPs. Demuestra dominio práctico de IA agéntica, prompting estructurado y diseño modular de agentes.  
+**Repo:** https://github.com/ingjaviergomezm/el-camello  
+**Demo:** https://ingjaviergomezm.github.io/el-camello/
 
 - **Web App — Planificador técnico-financiero de proyectos solares con IA (Colombia)**  
   Aplicación web para la evaluación técnica, económica y financiera de sistemas fotovoltaicos, incorporando modelos de inteligencia artificial y supuestos normativos del mercado colombiano.  
@@ -55,6 +61,7 @@ Trabajo en operación y mejora continua con enfoque en **confiabilidad**, **efic
 ---
 
 ## Roadmap (IA aplicada a analítica)
+- [x] IA agéntica: arquitectura de 16 Skills con orquestación multi-agente ([El Camello](https://github.com/ingjaviergomezm/el-camello))
 - [ ] Portafolio de **casos** (problema → datos → modelo → decisión → resultado)
 - [ ] Serie de notebooks: limpieza, features, validación, métricas
 - [ ] Un proyecto end-to-end con despliegue (API o dashboard)
