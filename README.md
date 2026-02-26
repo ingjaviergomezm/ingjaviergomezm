@@ -38,6 +38,11 @@ Arquitectura de 16 Skills para Antigravity (Google DeepMind), organizadas como u
 **Repo:** https://github.com/ingjaviergomezm/el-camello  
 **Demo:** https://ingjaviergomezm.github.io/el-camello/
 
+- **Web App — Axiona: Ecosistema Antiprocrastinación potenciado por IA**  
+  Aplicación web interactiva (React, Tailwind CSS v4) diseñada para productividad de alto rendimiento. Integra metodologías ágiles (Matriz Eisenhower, Kanban, Pomodoro) con **Inteligencia Artificial (Gemini API)** para el desglose automático de tareas y coaching analítico iterativo. Demuestra desarrollo de UI/UX modernos, gestión de estado y llamadas API.  
+  **Repo:** https://github.com/ingjaviergomezm/Axiona  
+  **Demo:** https://ingjaviergomezm.github.io/Axiona/
+
 - **Web App — Planificador técnico-financiero de proyectos solares con IA (Colombia)**  
   Aplicación web para la evaluación técnica, económica y financiera de sistemas fotovoltaicos, incorporando modelos de inteligencia artificial y supuestos normativos del mercado colombiano.  
   **Repo:** https://github.com/ingjaviergomezm/solar-project-planner  
