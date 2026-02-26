@@ -95,6 +95,10 @@ Trabajo en operación y mejora continua con foco en confiabilidad, eficiencia en
 > **Repo:** https://github.com/ingjaviergomezm/Programacion_Calculo_Reporte_Divulgacion_de_Turnos_Automatizado_VBA  
 > **Caso de uso:** Reporting · Supervisión operativa
 
+<div id="header" align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGFseDltbnNxanB3ZXB2ZmU4NWx5a3R1NWRtd3gzcXduZDJ5Y3BsNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H03PuVdwREB21ANkLX/giphy.gif" width="200"/>
+</div>
+
 
 ## 📫 CONTACTO DIRECTO
 
