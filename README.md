@@ -1,5 +1,3 @@
-[TEXTO ORIGINAL DEL USUARIO – NO MODIFICAR]
-
 <div align="center">
 
 <!-- Banner (opcional): sube una imagen a /assets/banner.png y descomenta la línea de abajo -->
@@ -97,59 +95,6 @@ Trabajo en operación y mejora continua con foco en confiabilidad, eficiencia en
 > **Repo:** https://github.com/ingjaviergomezm/Programacion_Calculo_Reporte_Divulgacion_de_Turnos_Automatizado_VBA  
 > **Caso de uso:** Reporting · Supervisión operativa
 
----
-
-## 📦 MÉTRICAS DE EVIDENCIA Y STACK
-> *Métricas enfocadas en constancia de commits, líneas escritas y lenguajes empleados. Motor: `lowlighter/metrics`*
-
-<div align="center">
-  <!-- Las métricas ahora se generan mediante GitHub Actions (.github/workflows/metrics.yml) -->
-  <img src="https://raw.githubusercontent.com/ingjaviergomezm/ingjaviergomezm/main/github-metrics.svg" alt="Revisión de Repositorios, Lenguajes, Líneas y Hábitos" />
-</div>
-
----
-
-## ⏱️ PRODUCTIVIDAD REAL & DISCIPLINA TÉCNICA
-> *Widgets externos integrables (WakaTime / LeetCode)*
-
-<div align="center">
-  <!-- WakaTime requiere que configures tu actividad como pública, o utilices el GitHub Action.
-       Si prefieres usar la API directa: asegúrate de tener "ingjaviergomezm" en WakaTime y en public. -->
-  <!--
-  <a href="https://wakatime.com/@ingjaviergomezm">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ingjaviergomezm&layout=compact&theme=transparent" alt="WakaTime Stats" />
-  </a>
-  -->
-  
-  <!-- LeetCode (Descomentar si tienes perfil público) -->
-  <!--
-  <a href="https://leetcode.com/ingjaviergomezm/">
-    <img src="https://leetcard.jacoblin.cool/ingjaviergomezm?theme=light&font=Read%20CV&ext=activity" alt="LeetCode Stats" />
-  </a>
-  -->
-</div>
-
----
-
-## 📊 HÁBITO Y ACTIVIDAD EN GITHUB
-
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=ingjaviergomezm&show_icons=true&hide_title=true&hide_rank=false" alt="GitHub Stats" />
-  <!-- Se utiliza demolab porque herokuapp suele tener caídas de servicio -->
-  <img height="160" src="https://streak-stats.demolab.com/?user=ingjaviergomezm" alt="GitHub Streak" />
-</div>
-
----
-
-## 🧠 CONTEXTO INTELECTUAL
-<!-- Las métricas RSS pueden generarse vía GitHub Actions (ver metrics.yml) -->
-<!--
-<div align="center">
-  <img src="https://raw.githubusercontent.com/ingjaviergomezm/ingjaviergomezm/main/rss.svg" alt="RSS Feed del Pensamiento Técnico" />
-</div>
--->
-
----
 
 ## 📫 CONTACTO DIRECTO
 
