@@ -25,7 +25,7 @@
 ---
 
 ## 👤 Perfil
-Trabajo en operación y mejora continua con enfoque en **confiabilidad**, **eficiencia energética** y **analítica aplicada**. Me interesa construir soluciones que conecten **datos + ingeniería + decisiones** en entornos reales (Oil & Gas / energía / renovables).
+Trabajo en operación y mejora continua con foco en confiabilidad, eficiencia energética y analítica aplicada. Me apasiona construir soluciones donde los datos, la ingeniería y las decisiones se encuentran en contextos reales: Oil & Gas, energías renovables y bussiness intelligence.
 
 ---
 
