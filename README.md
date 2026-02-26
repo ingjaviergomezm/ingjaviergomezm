@@ -103,7 +103,8 @@ Trabajo en operación y mejora continua con foco en confiabilidad, eficiencia en
 > *Métricas enfocadas en constancia de commits, líneas escritas y lenguajes empleados. Motor: `lowlighter/metrics`*
 
 <div align="center">
-  <img src="https://metrics.lecoq.io/ingjaviergomezm?template=classic&base=repositories,activity&config_timezone=America%2FBogota&plugin_languages=yes&plugin_languages_ignored=&plugin_languages_limit=8&plugin_lines=yes&plugin_habits=yes&plugin_habits_from=200&plugin_habits_days=14&plugin_habits_facts=yes&plugin_habits_charts=yes&hide=stars,followers" alt="Revisión de Repositorios, Lenguajes, Líneas y Hábitos" />
+  <!-- Las métricas ahora se generan mediante GitHub Actions (.github/workflows/metrics.yml) -->
+  <img src="https://raw.githubusercontent.com/ingjaviergomezm/ingjaviergomezm/main/github-metrics.svg" alt="Revisión de Repositorios, Lenguajes, Líneas y Hábitos" />
 </div>
 
 ---
@@ -112,10 +113,20 @@ Trabajo en operación y mejora continua con foco en confiabilidad, eficiencia en
 > *Widgets externos integrables (WakaTime / LeetCode)*
 
 <div align="center">
-  <!-- Reemplazar con WakaTime activo si se cuenta con la key en los actions -->
+  <!-- WakaTime requiere que configures tu actividad como pública, o utilices el GitHub Action.
+       Si prefieres usar la API directa: asegúrate de tener "ingjaviergomezm" en WakaTime y en public. -->
+  <!--
   <a href="https://wakatime.com/@ingjaviergomezm">
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ingjaviergomezm&layout=compact&theme=transparent" alt="WakaTime Stats" />
   </a>
+  -->
+  
+  <!-- LeetCode (Descomentar si tienes perfil público) -->
+  <!--
+  <a href="https://leetcode.com/ingjaviergomezm/">
+    <img src="https://leetcard.jacoblin.cool/ingjaviergomezm?theme=light&font=Read%20CV&ext=activity" alt="LeetCode Stats" />
+  </a>
+  -->
 </div>
 
 ---
@@ -124,16 +135,17 @@ Trabajo en operación y mejora continua con foco en confiabilidad, eficiencia en
 
 <div align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=ingjaviergomezm&show_icons=true&hide_title=true&hide_rank=false" alt="GitHub Stats" />
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=ingjaviergomezm" alt="GitHub Streak" />
+  <!-- Se utiliza demolab porque herokuapp suele tener caídas de servicio -->
+  <img height="160" src="https://streak-stats.demolab.com/?user=ingjaviergomezm" alt="GitHub Streak" />
 </div>
 
 ---
 
 ## 🧠 CONTEXTO INTELECTUAL
-<!-- Plugin RSS de lowlighter/metrics para blogs técnicos o Dev.to (Ejemplo demostrativo para descomentar si se incorpora) -->
+<!-- Las métricas RSS pueden generarse vía GitHub Actions (ver metrics.yml) -->
 <!--
 <div align="center">
-  <img src="https://metrics.lecoq.io/ingjaviergomezm?template=classic&base=none&plugin_rss=yes&plugin_rss_source=https://medium.com/feed/@tuusuario" alt="RSS Feed del Pensamiento Técnico" />
+  <img src="https://raw.githubusercontent.com/ingjaviergomezm/ingjaviergomezm/main/rss.svg" alt="RSS Feed del Pensamiento Técnico" />
 </div>
 -->
 

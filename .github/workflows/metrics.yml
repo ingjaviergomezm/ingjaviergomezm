@@ -1,0 +1,57 @@
+name: Metrics
+on:
+  # Ejecutar diario a la medianoche
+  schedule: [{cron: "0 0 * * *"}]
+  # Permitir ejecución manual
+  workflow_dispatch:
+  # Ejecutar al hacer push a main
+  push: {branches: ["master", "main"]}
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Generar Métricas Principales
+        uses: lowlighter/metrics@latest
+        with:
+          filename: github-metrics.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: ingjaviergomezm
+          template: classic
+          base: repositories, activity
+          config_timezone: America/Bogota
+          plugin_languages: yes
+          plugin_languages_limit: 8
+          plugin_lines: yes
+          plugin_habits: yes
+          plugin_habits_from: 200
+          plugin_habits_days: 14
+          plugin_habits_facts: yes
+          plugin_habits_charts: yes
+
+      # =======================================================
+      # WIDGETS OPCIONALES (Descomentar y configurar si se usan)
+      # =======================================================
+
+      # - name: Generar Métricas WakaTime
+      #   uses: lowlighter/metrics@latest
+      #   with:
+      #     filename: wakatime.svg
+      #     token: NOT_NEEDED
+      #     base: ""
+      #     plugin_wakatime: yes
+      #     plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }} # Requiere agregar este secret en GitHub
+      #     plugin_wakatime_days: 7
+      #     plugin_wakatime_limit: 5
+
+      # - name: Generar Métricas RSS (Contexto Intelectual)
+      #   uses: lowlighter/metrics@latest
+      #   with:
+      #     filename: rss.svg
+      #     token: NOT_NEEDED
+      #     base: ""
+      #     plugin_rss: yes
+      #     plugin_rss_source: https://dev.to/feed/tu_usuario # Cambiar por tu URL de RSS (Medium, Dev.to, etc)
+      #     plugin_rss_limit: 4
