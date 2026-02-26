@@ -1,10 +1,9 @@
+# Referencia: https://github.com/lowlighter/metrics#-documentation
 name: Metrics
+
 on:
-  # Ejecutar diario a la medianoche
-  schedule: [{cron: "0 0 * * *"}]
-  # Permitir ejecución manual
+  schedule: [{cron: "0 0 * * *"}]  # Diario a medianoche
   workflow_dispatch:
-  # Ejecutar al hacer push a main
   push: {branches: ["master", "main"]}
 
 jobs:
@@ -13,6 +12,8 @@ jobs:
     permissions:
       contents: write
     steps:
+
+      # ── Step 1: Métricas principales de GitHub ──────────────────────
       - name: Generar Métricas Principales
         uses: lowlighter/metrics@latest
         with:
@@ -31,27 +32,18 @@ jobs:
           plugin_habits_facts: yes
           plugin_habits_charts: yes
 
-      # =======================================================
-      # WIDGETS OPCIONALES (Descomentar y configurar si se usan)
-      # =======================================================
-
-      # - name: Generar Métricas WakaTime
-      #   uses: lowlighter/metrics@latest
-      #   with:
-      #     filename: wakatime.svg
-      #     token: NOT_NEEDED
-      #     base: ""
-      #     plugin_wakatime: yes
-      #     plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }} # Requiere agregar este secret en GitHub
-      #     plugin_wakatime_days: 7
-      #     plugin_wakatime_limit: 5
-
-      # - name: Generar Métricas RSS (Contexto Intelectual)
-      #   uses: lowlighter/metrics@latest
-      #   with:
-      #     filename: rss.svg
-      #     token: NOT_NEEDED
-      #     base: ""
-      #     plugin_rss: yes
-      #     plugin_rss_source: https://dev.to/feed/tu_usuario # Cambiar por tu URL de RSS (Medium, Dev.to, etc)
-      #     plugin_rss_limit: 4
+      # ── Step 2: PageSpeed (rendimiento de tu sitio web) ─────────────
+      - name: Generar Métricas PageSpeed
+        uses: lowlighter/metrics@latest
+        with:
+          filename: github-metrics-pagespeed.svg
+          token: NOT_NEEDED
+          user: ingjaviergomezm
+          template: classic
+          base: ""
+          config_timezone: America/Bogota
+          plugin_pagespeed: yes
+          plugin_pagespeed_url: https://ingjaviergomezm.github.io/  # Usa el sitio web de tu perfil de GitHub
+          plugin_pagespeed_detailed: yes       # Muestra FCP, LCP, CLS, etc.
+          # plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}  # Opcional pero recomendado
+#     plugin_rss_limit: 4
