@@ -1,3 +1,4 @@
+
 <div align="center">
 
 <!-- Banner (opcional): sube una imagen a /assets/banner.png y descomenta la línea de abajo -->
@@ -99,6 +100,7 @@ Trabajo en operación y mejora continua con foco en confiabilidad, eficiencia en
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGFseDltbnNxanB3ZXB2ZmU4NWx5a3R1NWRtd3gzcXduZDJ5Y3BsNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H03PuVdwREB21ANkLX/giphy.gif" width="200"/>
 </div>
 
+![Metrics](https://metrics.lecoq.io/https://github.com/ingjaviergomezm?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&pagespeed=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&pagespeed=false&pagespeed.url=https%3A%2F%2Fingjaviergomezm.github.io%2F&pagespeed.detailed=true&pagespeed.screenshot=false&pagespeed.pwa=false&config.timezone=America%2FBogota)
 
 ## 📫 CONTACTO DIRECTO
 
@@ -106,3 +108,4 @@ Trabajo en operación y mejora continua con foco en confiabilidad, eficiencia en
 - [Portafolio Oficial](https://ingjaviergomezm.github.io/)
 - [Email Principal](mailto:ingjaviergomez222@gmail.com)
 
+![Metrics](https://metrics.lecoq.io/https://github.com/ingjaviergomezm?template=classic&base.header=0&base.activity=0&base.community=0&base.metadata=0&activity=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&activity=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&config.timezone=America%2FBogota)
