@@ -3,11 +3,11 @@
 <!-- Banner (opcional): sube una imagen a /assets/banner.png y descomenta la línea de abajo) -->
 <!-- <img src="assets/banner.png" alt="Banner" width="100%" /> -->
 
-# Javier Gómez M.
+# Javier Gómez .
 
-**Ingeniero Industrial | Analítica de Datos | IA Agéntica aplicada**  
-Oil & Gas · Energía · Renovables · Eficiencia Energética  
-Python · SQL · Power BI · Excel (VBA) · Antigravity · Gemini API
+** Especialista en Renovables y Eficiencia Energética| Esp. IA & Analítica de Datos |  
+Visionario · Blockchain Early Adopter · Gamer · Apasionado de las Tech · 
+"Si es Medible, es Mejorable" 
 
 <a href="https://ingjaviergomezm.github.io/" target="_blank" rel="noreferrer">Portafolio</a> •
 <a href="mailto:ingjaviergomez222@gmail.com">Email</a> •
@@ -33,8 +33,8 @@ Trabajo en operación y mejora continua con enfoque en **confiabilidad**, **efic
 
 ## Proyectos destacados
 
-### 🦖 El Camello — Stack de 16 Agentes de IA Especializados *(IA Agéntica)*
-Arquitectura de 16 Skills para Antigravity (Google DeepMind), organizadas como una oficina corporativa de 5 pisos con un orquestador PM. Cada agente ejecuta tareas profesionales complejas: documentos, dashboards, presentaciones, webapps, arte generativo y MCPs. Demuestra dominio práctico de IA agéntica, prompting estructurado y diseño modular de agentes.  
+- **Web App — El Camello — Stack de 16 Agentes de IA Especializados *(IA Agéntica)*
+  Arquitectura de 16 Skills para Antigravity (Google DeepMind), organizadas como una oficina corporativa de 5 pisos con un orquestador PM. Cada agente ejecuta tareas profesionales complejas: documentos, dashboards, presentaciones, webapps, arte generativo y MCPs.     Demuestra dominio práctico de IA agéntica, prompting estructurado y diseño modular de agentes.  
 **Repo:** https://github.com/ingjaviergomezm/el-camello  
 **Demo:** https://ingjaviergomezm.github.io/el-camello/
 
