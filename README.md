@@ -1,19 +1,26 @@
 <div align="center">
 
-<!-- Banner (opcional): sube una imagen a /assets/banner.png y descomenta la línea de abajo) -->
+<!-- Banner (opcional): sube una imagen a /assets/banner.png y descomenta la línea de abajo -->
 <!-- <img src="assets/banner.png" alt="Banner" width="100%" /> -->
 
-# Javier Gómez .
+<h1>Javier Gómez </h1>
 
-Especialista en Renovables y Eficiencia Energética| Esp. IA & Analítica de Datos |  
-Visionario · Blockchain Early Adopter · Gamer · Apasionado de las Tech · Vibe Coder ·
-"Si es Medible, es Mejorable" 
+<hr>
 
-<a href="https://ingjaviergomezm.github.io/" target="_blank" rel="noreferrer">Portafolio</a> •
-<a href="mailto:ingjaviergomez222@gmail.com">Email</a> •
-<a href="https://github.com/ingjaviergomezm" target="_blank" rel="noreferrer">GitHub</a>
+<p>Especialista en Renovables y Eficiencia Energética | Esp. IA & Analítica de Datos
+</p>Visionario · Blockchain Early Adopter · Gamer · Apasionado de las Tech · Vibe Coder</p>
+</p>"Si es Medible es Mejorable"</p>
+
+<p>
+  <a href="https://ingjaviergomezm.github.io/" target="_blank" rel="noreferrer">Portafolio</a> · 
+  <a href="mailto:ingjaviergomez222@gmail.com">Email</a> · 
+  <a href="https://github.com/ingjaviergomezm" target="_blank" rel="noreferrer">GitHub</a>
+</p>
+
+<hr>
 
 </div>
+
 
 ---
 
