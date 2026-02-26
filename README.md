@@ -98,7 +98,7 @@ Trabajo en operación y mejora continua con foco en confiabilidad, eficiencia en
 
 ## 📫 CONTACTO DIRECTO
 
-- [LinkedIn](https://www.linkedin.com/in/ingjaviergomezm/) *(Placeholder)*
+- [LinkedIn](https://www.linkedin.com/in/ingjaviergomezm/)
 - [Portafolio Oficial](https://ingjaviergomezm.github.io/)
 - [Email Principal](mailto:ingjaviergomez222@gmail.com)
 
