@@ -5,7 +5,7 @@
 
 # Javier Gómez .
 
-** Especialista en Renovables y Eficiencia Energética| Esp. IA & Analítica de Datos |  
+**Especialista en Renovables y Eficiencia Energética| Esp. IA & Analítica de Datos |  
 Visionario · Blockchain Early Adopter · Gamer · Apasionado de las Tech · 
 "Si es Medible, es Mejorable" 
 
