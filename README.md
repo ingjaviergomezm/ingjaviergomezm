@@ -65,6 +65,11 @@ Trabajo en operación y mejora continua con foco en confiabilidad, eficiencia en
 > **Repo:** https://github.com/ingjaviergomezm/Axiona  
 > **Demo:** https://ingjaviergomezm.github.io/Axiona/
 
+**Manifiesto & Skill — Memoria PHVA Vectorizada: Framework de Resiliencia Agéntica**  
+![AI Resilience](https://img.shields.io/badge/AI_Resilience-Persistent_Learning-blue?style=flat-square) ![Vector Database](https://img.shields.io/badge/Vector_Memory-Chromadb%2FPinecone-green?style=flat-square) ![Specialist](https://img.shields.io/badge/Concept-Blueprint_Meridian-gold?style=flat-square)
+> Desarrollo de un manifiesto técnico y Skill operativa que implementa el ciclo PHVA con persistencia vectorial asíncrona. Resuelve la "Amnesia Estructural" en agentes LLM, logrando una evolución de la memoria inter-sesional mediante la destilación de lecciones aprendidas de logs históricos. Mitigación proactiva de errores y optimización drástica de tokens.  
+> **Repo:** https://github.com/ingjaviergomezm/phva-vectorizado
+
 ---
 
 ### 🔹 Energía, Operaciones & Eficiencia
