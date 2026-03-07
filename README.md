@@ -33,17 +33,17 @@
 
 **No soy solo un ingeniero. Soy un ingeniero con su propia infraestructura de IA.**
 
-He construido y opero un ecosistema de **Inteligencia Artificial Agéntica** que multiplica mi capacidad de entrega. Mientras otros profesionales copian y pegan respuestas de ChatGPT, yo orquesto **agentes especializados** que ejecutan tareas complejas de forma autónoma: desde generar reportes ejecutivos y auditar código, hasta optimizar el SEO de activos digitales y automatizar flujos operativos completos.
+He construido y opero un ecosistema de **Inteligencia Artificial Agéntica** que multiplica mi capacidad de entrega. Mientras otros profesionales actúan de forma aislada, yo orquesto **agentes especializados** que ejecutan tareas complejas de forma autónoma: desde generar documentación técnica con branding corporativo hasta auditar sistemas críticos en tiempo real.
 
 **Resultados medibles:**
 
 | Métrica | Impacto |
 |---|---|
 | ⏱️ Tiempo de entrega | Reducido **5–10x** vs. ejecución manual |
-| 📄 Generación de documentos | Reportes, actas y presentaciones en **minutos** |
-| 🔍 Auditoría de código | Análisis de seguridad + deuda técnica **automatizado** |
+| 📄 Documentación | Reportes, actas y presentaciones en **segundos**, bajo formatos estandarizados y branding corporativo |
+| 🛡️ Aseguramiento de Calidad | Auditoría de seguridad, deuda técnica y cumplimiento mediante **agentes auditores QA automatizados** |
 | 🧠 Curva de aprendizaje | **Cero re-trabajo**: el sistema recuerda decisiones y lecciones previas |
-| 📈 SEO & Visibilidad | Optimización continua de metatags, keywords y posicionamiento |
+| 🎼 RAG & Orquestación | Arquitectura con **memoria a largo plazo** y orquestación multi-agente para contextos de alta complejidad |
 
 </td>
 <td width="40%">
@@ -58,9 +58,9 @@ He construido y opero un ecosistema de **Inteligencia Artificial Agéntica** que
 🎯 40+ Skills Especializadas
    Documentos · Presentaciones
    Dashboards · QA · Arquitectura
-   SEO · Investigación · Orquestación
+   Investigación · Orquestación
 
-🧠 Memoria Persistente (Mem0)
+🧠 Memoria Persistente (RAG)
    Knowledge Items · Vector DB
    Aprendizaje inter-sesional
 
@@ -73,23 +73,23 @@ He construido y opero un ecosistema de **Inteligencia Artificial Agéntica** que
   </tr>
 </table>
 
-> 💡 **En términos simples:** cada proyecto que ejecuto se beneficia de una maquinaria invisible de agentes que investigan, redactan, auditan, prueban y optimizan en paralelo. Tú recibes el resultado final con calidad enterprise en una fracción del tiempo.
+> 💡 **En términos simples:** cada proyecto que ejecuto se beneficia de una maquinaria invisible de agentes que investigan, redactan, auditan y prueban en paralelo. Tú recibes el resultado final con calidad enterprise en una fracción del tiempo.
 
 ### 📖 [Lee la guía completa de mi infraestructura →](https://github.com/ingjaviergomezm/blog_mas_alla_del_vibe_coding)
 
 ---
 
 ## 👤 Perfil
-Ingeniero Industrial con **10+ años de experiencia** en operación, mejora continua y confiabilidad en **Oil & Gas**. Especialista en eficiencia energética, analítica aplicada e **Inteligencia Artificial Agéntica**. Diseño soluciones donde los datos, la automatización inteligente y las decisiones de negocio convergen para generar impacto real.
+Ingeniero Industrial con **10+ años de experiencia** en operación, mejora continua y confiabilidad en **Oil & Gas**. Especialista en eficiencia energética, analítica aplicada e **Inteligencia Artificial Agéntica**. Diseño soluciones donde los datos, la automatización avanzada y las decisiones de negocio convergen para generar impacto real.
 
-**Keywords:** `AI/ML` · `Process Automation` · `Data Analytics` · `Agentic AI` · `LLM Orchestration` · `Python` · `SQL` · `Power BI` · `VBA` · `ISO 50001` · `ISO 14224` · `Energy Efficiency` · `Oil & Gas Operations` · `Continuous Improvement` · `SEO Optimization`
+**Keywords:** `AI/ML` · `Process Automation` · `Data Analytics` · `Agentic AI` · `LLM Orchestration` · `RAG Systems` · `Python` · `SQL` · `Power BI` · `VBA` · `ISO 50001` · `ISO 14224` · `Energy Efficiency` · `Oil & Gas Operations` · `Continuous Improvement`
 
 ---
 
 ## 🧠 Stack (lo que realmente uso)
-- **IA & Automatización:** Antigravity IDE, Gemini API, LLM Orchestration, MCP, Agentic Workflows, SEO Automation
+- **IA & Automatización:** Antigravity IDE, Gemini API, LLM Orchestration, MCP, RAG Systems, Agentic Workflows
 - **Datos/BI:** Power BI, modelado dimensional, ETL, Python (pandas), SQL
-- **Productividad:** Automatización Office (VBA/Excel), generación de reportes, dashboards operativos
+- **Productividad:** Automatización Office (VBA/Excel), generación de reportes corporativos, dashboards operativos
 - **Ingeniería:** Eficiencia energética, renovables, confiabilidad/operaciones, ISO 50001, ISO 14224
 
 ---
@@ -109,7 +109,7 @@ Ingeniero Industrial con **10+ años de experiencia** en operación, mejora cont
 
 **Web App — Productividad Agéntica 10x — El Factor Diferencial *(IA Agéntica)***  
 ![Antigravity](https://img.shields.io/badge/Antigravity-Google%-blue?style=flat-square) ![Infrastructure](https://img.shields.io/badge/Infrastructure-Agentic-orange?style=flat-square) ![Productivity](https://img.shields.io/badge/Productivity-10x-green?style=flat-square)
-> Publicación detallada de mi infraestructura de agentes. Presento el despliegue de un ecosistema de productividad basado en Antigravity IDE que incluye orquestación táctica, MCPs, Skills especializadas y memoria persistente. Al contratarme, obtienes acceso a toda esta maquinaria que multiplica mi capacidad de entrega técnica y analítica, optimizando incluso el SEO de tus activos.  
+> Publicación detallada de mi infraestructura de agentes. Presento el despliegue de un ecosistema de productividad basado en Antigravity IDE que incluye orquestación táctica, MCPs, Skills especializadas y memoria persistente (RAG). Al contratarme, obtienes acceso a toda esta maquinaria que multiplica mi capacidad de entrega técnica y analítica asegurando calidad enterprise.  
 > **Repo:** https://github.com/ingjaviergomezm/blog_mas_alla_del_vibe_coding
 
 **Web App — El Camello — Stack de 16 Agentes de IA Especializados *(IA Agéntica)***  
