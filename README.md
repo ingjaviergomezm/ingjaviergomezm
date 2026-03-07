@@ -25,33 +25,50 @@
 
 ---
 
+## 🚀 EL FACTOR 10x: MI INFRAESTRUCTURA AGÉNTICA
+> **Al trabajar conmigo, no solo contratas a un ingeniero; contratas una infraestructura de productividad autónoma.**
+
+He desarrollado un ecosistema de **IA Agéntica** sobre **Antigravity IDE** que multiplica mi capacidad de entrega. No se trata de "usar ChatGPT", se trata de orquestar una fábrica de software con:
+- **MCPs (Model Context Protocol):** Conexión directa de la IA con mis bases de datos, APIs y herramientas de productividad.
+- **Skills Especializadas:** Un ejército de agentes expertos en QA (Super TDD), Documentación (Docx/PPTX), e Ingeniería.
+- **Memoria Persistente (Mem0):** El sistema aprende de cada iteración, eliminando la reincidencia de errores y optimizando el contexto.
+- **Ciclo PHVA Autónomo:** Mejora continua inyectada en cada proceso de ejecución.
+
+### 🔍 [Explora mi arquitectura de agentes: Beyond Vibe Coding](https://github.com/ingjaviergomezm/blog_mas_alla_del_vibe_coding)
+
+---
+
 ## 👤 Perfil
 Trabajo en operación y mejora continua con foco en confiabilidad, eficiencia energética y analítica aplicada. Me apasiona construir soluciones donde los datos, la ingeniería y las decisiones se encuentran en contextos reales: Oil & Gas, energías renovables y bussiness intelligence.
 
 ---
 
 ## 🧠 Stack (lo que realmente uso)
+- **IA Agéntica (Factor 10x):** Antigravity IDE, Gemini API, arquitecturas de Skills, MCP, Memoria Vectorizada (PHVA)
 - **Datos/BI:** Power BI, modelado, ETL práctico
 - **Programación:** Python (pandas), SQL
 - **Automatización:** Excel avanzado, **VBA**, Visual Basic
-- **IA Agéntica:** Antigravity (Google DeepMind), Gemini API, arquitecturas de Skills, MCP
 - **Ingeniería:** eficiencia energética, renovables, confiabilidad/operaciones
 
 ---
 
 ## Roadmap (IA aplicada a analítica)
+- [x] **Beyond Vibe Coding:** Publicación de mi infraestructura agéntica robusta ([Repo](https://github.com/ingjaviergomezm/blog_mas_alla_del_vibe_coding))
 - [x] IA agéntica: arquitectura de 16 Skills con orquestación multi-agente ([El Camello](https://github.com/ingjaviergomezm/el-camello))
 - [ ] Portafolio de **casos** (problema → datos → modelo → decisión → resultado)
 - [ ] Serie de notebooks: limpieza, features, validación, métricas
 - [ ] Un proyecto end-to-end con despliegue (API o dashboard)
-
-[FIN DEL TEXTO ORIGINAL DEL USUARIO]
 
 ---
 
 ## 🚀 PROYECTOS TÉCNICOS DESTACADOS
 
 ### 🔹 IA Agéntica & Ecosistemas Inteligentes
+
+**Web App — Beyond Vibe Coding — Mi Fábrica de Software Autónoma *(IA Agéntica)***  
+![Antigravity](https://img.shields.io/badge/Antigravity-Google%-blue?style=flat-square) ![Infrastructure](https://img.shields.io/badge/Infrastructure-Agentic-orange?style=flat-square) ![Productivity](https://img.shields.io/badge/Productivity-10x-green?style=flat-square)
+> Publicación detallada de mi infraestructura de agentes. Explico cómo orquestar MCPs, gestionar memoria a largo plazo y aplicar ciclos PHVA para maximizar la productividad laboral e ingeniería. Es el "cerebro" detrás de todos mis desarrollos actuales.  
+> **Repo:** https://github.com/ingjaviergomezm/blog_mas_alla_del_vibe_coding
 
 **Web App — El Camello — Stack de 16 Agentes de IA Especializados *(IA Agéntica)***  
 ![Antigravity](https://img.shields.io/badge/Antigravity-Google%-blue?style=flat-square) ![IA Agéntica](https://img.shields.io/badge/IA_Agéntica-MultiAgent-orange?style=flat-square) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Architecture](https://img.shields.io/badge/Architecture-Skills%2FMCP-yellow?style=flat-square)
