@@ -25,26 +25,26 @@
 
 ---
 
-## 🚀 EL FACTOR 10x: MI INFRAESTRUCTURA AGÉNTICA
+## 🚀 PRODUCTIVIDAD AGÉNTICA 10x: MI VENTAJA COMPETITIVA
 > **Al trabajar conmigo, no solo contratas a un ingeniero; contratas una infraestructura de productividad autónoma.**
 
-He desarrollado un ecosistema de **IA Agéntica** sobre **Antigravity IDE** que multiplica mi capacidad de entrega. No se trata de "usar ChatGPT", se trata de orquestar una fábrica de software con:
-- **MCPs (Model Context Protocol):** Conexión directa de la IA con mis bases de datos, APIs y herramientas de productividad.
-- **Skills Especializadas:** Un ejército de agentes expertos en QA (Super TDD), Documentación (Docx/PPTX), e Ingeniería.
-- **Memoria Persistente (Mem0):** El sistema aprende de cada iteración, eliminando la reincidencia de errores y optimizando el contexto.
-- **Ciclo PHVA Autónomo:** Mejora continua inyectada en cada proceso de ejecución.
+He diseñado un ecosistema de **IA Agéntica** sobre **Antigravity IDE** que potencializa mi productividad laboral e ingeniería 10X. Se trata de orquestar una fábrica de resultados con:
+- **MCPs y SEO:** Conexión directa de la IA con APIs, bases de datos y herramientas de optimización para maximizar el alcance digital.
+- **Skills Especializadas:** Un ejército de agentes expertos en Ofimática (Reportes/Presentaciones), QA, e Ingeniería de Software.
+- **Memoria Vectorizada (PHVA):** El sistema aprende de cada iteración, eliminando la reincidencia de errores y refinando el conocimiento.
+- **Orquestación Autónoma:** Directores de orquesta virtuales que gestionan proyectos complejos de punta a punta.
 
-### 🔍 [Explora mi arquitectura de agentes: Beyond Vibe Coding](https://github.com/ingjaviergomezm/blog_mas_alla_del_vibe_coding)
+### 🔍 [Explora mi infraestructura de productividad 10x](https://github.com/ingjaviergomezm/blog_mas_alla_del_vibe_coding)
 
 ---
 
 ## 👤 Perfil
-Trabajo en operación y mejora continua con foco en confiabilidad, eficiencia energética y analítica aplicada. Me apasiona construir soluciones donde los datos, la ingeniería y las decisiones se encuentran en contextos reales: Oil & Gas, energías renovables y bussiness intelligence.
+Trabajo en operación y mejora continua con foco en confiabilidad, eficiencia energética y analítica aplicada. Me apasiona construir soluciones donde los datos, la ingeniería y las decisiones se encuentran en contextos reales: Oil & Gas, energías renovables y productividad agéntica.
 
 ---
 
 ## 🧠 Stack (lo que realmente uso)
-- **IA Agéntica (Factor 10x):** Antigravity IDE, Gemini API, arquitecturas de Skills, MCP, Memoria Vectorizada (PHVA)
+- **Productividad Agéntica (Factor 10x):** Antigravity IDE, Gemini API, arquitecturas de Skills, MCP, SEO Optimization
 - **Datos/BI:** Power BI, modelado, ETL práctico
 - **Programación:** Python (pandas), SQL
 - **Automatización:** Excel avanzado, **VBA**, Visual Basic
@@ -53,7 +53,7 @@ Trabajo en operación y mejora continua con foco en confiabilidad, eficiencia en
 ---
 
 ## Roadmap (IA aplicada a analítica)
-- [x] **Beyond Vibe Coding:** Publicación de mi infraestructura agéntica robusta ([Repo](https://github.com/ingjaviergomezm/blog_mas_alla_del_vibe_coding))
+- [x] **Productividad Agéntica 10x:** Publicación de mi infraestructura robusta ([Repo](https://github.com/ingjaviergomezm/blog_mas_alla_del_vibe_coding))
 - [x] IA agéntica: arquitectura de 16 Skills con orquestación multi-agente ([El Camello](https://github.com/ingjaviergomezm/el-camello))
 - [ ] Portafolio de **casos** (problema → datos → modelo → decisión → resultado)
 - [ ] Serie de notebooks: limpieza, features, validación, métricas
@@ -65,9 +65,9 @@ Trabajo en operación y mejora continua con foco en confiabilidad, eficiencia en
 
 ### 🔹 IA Agéntica & Ecosistemas Inteligentes
 
-**Web App — Beyond Vibe Coding — Mi Fábrica de Software Autónoma *(IA Agéntica)***  
+**Web App — Productividad Agéntica 10x — El Factor Diferencial *(IA Agéntica)***  
 ![Antigravity](https://img.shields.io/badge/Antigravity-Google%-blue?style=flat-square) ![Infrastructure](https://img.shields.io/badge/Infrastructure-Agentic-orange?style=flat-square) ![Productivity](https://img.shields.io/badge/Productivity-10x-green?style=flat-square)
-> Publicación detallada de mi infraestructura de agentes. Explico cómo orquestar MCPs, gestionar memoria a largo plazo y aplicar ciclos PHVA para maximizar la productividad laboral e ingeniería. Es el "cerebro" detrás de todos mis desarrollos actuales.  
+> Publicación detallada de mi infraestructura de agentes. Presento el despliegue de un ecosistema de productividad basado en Antigravity IDE que incluye orquestación táctica, MCPs, Skills especializadas y memoria persistente. Al contratarme, obtienes acceso a toda esta maquinaria que multiplica mi capacidad de entrega técnica y analítica, optimizando incluso el SEO de tus activos.  
 > **Repo:** https://github.com/ingjaviergomezm/blog_mas_alla_del_vibe_coding
 
 **Web App — El Camello — Stack de 16 Agentes de IA Especializados *(IA Agéntica)***  
