@@ -25,30 +25,72 @@
 
 ---
 
-## 🚀 PRODUCTIVIDAD AGÉNTICA 10x: MI VENTAJA COMPETITIVA
-> **Al trabajar conmigo, no solo contratas a un ingeniero; contratas una infraestructura de productividad autónoma.**
+## 🚀 ¿POR QUÉ CONTRATARME? EL FACTOR 10x
 
-He diseñado un ecosistema de **IA Agéntica** sobre **Antigravity IDE** que potencializa mi productividad laboral e ingeniería 10X. Se trata de orquestar una fábrica de resultados con:
-- **MCPs y SEO:** Conexión directa de la IA con APIs, bases de datos y herramientas de optimización para maximizar el alcance digital.
-- **Skills Especializadas:** Un ejército de agentes expertos en Ofimática (Reportes/Presentaciones), QA, e Ingeniería de Software.
-- **Memoria Vectorizada (PHVA):** El sistema aprende de cada iteración, eliminando la reincidencia de errores y refinando el conocimiento.
-- **Orquestación Autónoma:** Directores de orquesta virtuales que gestionan proyectos complejos de punta a punta.
+<table>
+  <tr>
+    <td width="60%">
 
-### 🔍 [Explora mi infraestructura de productividad 10x](https://github.com/ingjaviergomezm/blog_mas_alla_del_vibe_coding)
+**No soy solo un ingeniero. Soy un ingeniero con su propia infraestructura de IA.**
+
+He construido y opero un ecosistema de **Inteligencia Artificial Agéntica** que multiplica mi capacidad de entrega. Mientras otros profesionales copian y pegan respuestas de ChatGPT, yo orquesto **agentes especializados** que ejecutan tareas complejas de forma autónoma: desde generar reportes ejecutivos y auditar código, hasta optimizar el SEO de activos digitales y automatizar flujos operativos completos.
+
+**Resultados medibles:**
+
+| Métrica | Impacto |
+|---|---|
+| ⏱️ Tiempo de entrega | Reducido **5–10x** vs. ejecución manual |
+| 📄 Generación de documentos | Reportes, actas y presentaciones en **minutos** |
+| 🔍 Auditoría de código | Análisis de seguridad + deuda técnica **automatizado** |
+| 🧠 Curva de aprendizaje | **Cero re-trabajo**: el sistema recuerda decisiones y lecciones previas |
+| 📈 SEO & Visibilidad | Optimización continua de metatags, keywords y posicionamiento |
+
+</td>
+<td width="40%">
+
+**🧩 Stack Agéntico**
+
+```
+🔌 MCPs (Model Context Protocol)
+   Gmail · Calendar · Drive · Sheets
+   GitHub · PostgreSQL · MSSQL
+
+🎯 40+ Skills Especializadas
+   Documentos · Presentaciones
+   Dashboards · QA · Arquitectura
+   SEO · Investigación · Orquestación
+
+🧠 Memoria Persistente (Mem0)
+   Knowledge Items · Vector DB
+   Aprendizaje inter-sesional
+
+♻️ Ciclo PHVA Autónomo
+   Plan → Do → Check → Act
+   Self-evolution automática
+```
+
+</td>
+  </tr>
+</table>
+
+> 💡 **En términos simples:** cada proyecto que ejecuto se beneficia de una maquinaria invisible de agentes que investigan, redactan, auditan, prueban y optimizan en paralelo. Tú recibes el resultado final con calidad enterprise en una fracción del tiempo.
+
+### 📖 [Lee la guía completa de mi infraestructura →](https://github.com/ingjaviergomezm/blog_mas_alla_del_vibe_coding)
 
 ---
 
 ## 👤 Perfil
-Trabajo en operación y mejora continua con foco en confiabilidad, eficiencia energética y analítica aplicada. Me apasiona construir soluciones donde los datos, la ingeniería y las decisiones se encuentran en contextos reales: Oil & Gas, energías renovables y productividad agéntica.
+Ingeniero Industrial con **10+ años de experiencia** en operación, mejora continua y confiabilidad en **Oil & Gas**. Especialista en eficiencia energética, analítica aplicada e **Inteligencia Artificial Agéntica**. Diseño soluciones donde los datos, la automatización inteligente y las decisiones de negocio convergen para generar impacto real.
+
+**Keywords:** `AI/ML` · `Process Automation` · `Data Analytics` · `Agentic AI` · `LLM Orchestration` · `Python` · `SQL` · `Power BI` · `VBA` · `ISO 50001` · `ISO 14224` · `Energy Efficiency` · `Oil & Gas Operations` · `Continuous Improvement` · `SEO Optimization`
 
 ---
 
 ## 🧠 Stack (lo que realmente uso)
-- **Productividad Agéntica (Factor 10x):** Antigravity IDE, Gemini API, arquitecturas de Skills, MCP, SEO Optimization
-- **Datos/BI:** Power BI, modelado, ETL práctico
-- **Programación:** Python (pandas), SQL
-- **Automatización:** Excel avanzado, **VBA**, Visual Basic
-- **Ingeniería:** eficiencia energética, renovables, confiabilidad/operaciones
+- **IA & Automatización:** Antigravity IDE, Gemini API, LLM Orchestration, MCP, Agentic Workflows, SEO Automation
+- **Datos/BI:** Power BI, modelado dimensional, ETL, Python (pandas), SQL
+- **Productividad:** Automatización Office (VBA/Excel), generación de reportes, dashboards operativos
+- **Ingeniería:** Eficiencia energética, renovables, confiabilidad/operaciones, ISO 50001, ISO 14224
 
 ---
 
