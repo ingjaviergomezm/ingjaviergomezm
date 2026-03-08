@@ -25,7 +25,7 @@
 
 ---
 
-## 🚀 ¿POR QUÉ CONTRATARME? EL FACTOR 10x
+## 🚀 ¿MI PROPUESTA DE VALOR? EL FACTOR 10x
 
 <table>
   <tr>
