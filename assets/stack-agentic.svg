@@ -1,0 +1,145 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 280" width="1280" height="280" role="img">
+  <defs>
+    
+    <pattern id="dotsP" width="6" height="6" patternUnits="userSpaceOnUse">
+      <circle cx="3" cy="3" r="0.6" fill="#2A2A24"></circle>
+    </pattern>
+  </defs>
+  <rect width="1280" height="280" fill="#0E0E0C"></rect>
+  <rect width="1280" height="280" fill="url(#dotsP)" opacity="0.6"></rect>
+
+  
+  <line x1="40" y1="40" x2="1240" y2="40" stroke="#1F1F1B"></line>
+  <text x="40" y="26" class="mono" font-size="10" fill="#F5B14C" letter-spacing="3">▣ STACK_AGÉNTICO · ARQUITECTURA</text>
+  <text x="640" y="26" class="mono" font-size="10" fill="#7A776E" letter-spacing="2" text-anchor="middle">PRISMA · EL CAMELLO · MEMORIA RAG · CICLO PHVA</text>
+  <g transform="translate(1140, 16)">
+    <rect width="100" height="18" fill="none" stroke="#7AB87A"></rect>
+    <circle cx="10" cy="9" r="3" fill="#7AB87A" class="pulse"></circle>
+    <text x="20" y="12" class="mono" font-size="9" fill="#7AB87A" letter-spacing="2">RUNNING</text>
+  </g>
+
+  
+  
+  <g transform="translate(40, 70)">
+
+    
+    <g stroke="#3A3A33" stroke-width="0.75" fill="none">
+      
+      <line x1="150" y1="30" x2="1050" y2="30" class="drawline"></line>
+      
+      <line x1="150" y1="30" x2="150" y2="56"></line>
+      <line x1="450" y1="30" x2="450" y2="56"></line>
+      <line x1="750" y1="30" x2="750" y2="56"></line>
+      <line x1="1050" y1="30" x2="1050" y2="56"></line>
+      
+      <line x1="600" y1="30" x2="600" y2="6"></line>
+    </g>
+
+    
+    <g transform="translate(540, 0)">
+      <rect x="0" y="-6" width="120" height="18" fill="#0E0E0C" stroke="#F5B14C"></rect>
+      <text x="60" y="6" class="mono" font-size="10" fill="#F5B14C" text-anchor="middle" letter-spacing="2">USER QUERY</text>
+    </g>
+
+    
+    <g transform="translate(50, 60)">
+      
+      <g>
+        <rect width="200" height="100" fill="#141411" stroke="#2A2A24"></rect>
+        <line x1="0" y1="22" x2="200" y2="22" stroke="#2A2A24"></line>
+        <text x="12" y="15" class="mono" font-size="10" fill="#F5B14C" letter-spacing="2">◉ MCPs</text>
+        <text x="190" y="15" class="mono" font-size="9" fill="#5A5750" text-anchor="end" letter-spacing="1">7 conectores</text>
+
+        <g class="mono" font-size="10" transform="translate(12, 38)">
+          <text fill="#9A968A">Gmail</text><text x="65" fill="#9A968A">Calendar</text>
+          <text y="14" fill="#9A968A">Drive</text><text x="65" y="14" fill="#9A968A">Sheets</text>
+          <text y="28" fill="#9A968A">GitHub</text><text x="65" y="28" fill="#9A968A">PostgreSQL</text>
+          <text y="42" fill="#9A968A">MSSQL</text>
+        </g>
+      </g>
+
+      
+      <g transform="translate(210, 50)">
+        <line x1="0" y1="0" x2="80" y2="0" stroke="#3A3A33" stroke-dasharray="2 3"></line>
+        <path d="M75 -3 L80 0 L75 3" fill="none" stroke="#3A3A33"></path>
+      </g>
+
+      
+      <g transform="translate(300, 0)">
+        <rect width="200" height="100" fill="#141411" stroke="#F5B14C"></rect>
+        <line x1="0" y1="22" x2="200" y2="22" stroke="#2A2A24"></line>
+        <text x="12" y="15" class="mono" font-size="10" fill="#F5B14C" letter-spacing="2">◆ MULTI-AGENTE</text>
+        <text x="190" y="15" class="mono" font-size="9" fill="#5A5750" text-anchor="end" letter-spacing="1">21+ agentes</text>
+
+        <g transform="translate(12, 36)" class="mono" font-size="10">
+          <circle cx="3" cy="-3" r="2.5" fill="#F5B14C" class="pulse"></circle>
+          <text x="12" y="0" fill="#F5F1E8">Prisma</text>
+          <text x="60" y="0" fill="#7A776E">router + 5 spec</text>
+
+          <circle cx="3" cy="13" r="2.5" fill="#7AB87A"></circle>
+          <text x="12" y="16" fill="#F5F1E8">El Camello</text>
+          <text x="80" y="16" fill="#7A776E">16 skills</text>
+
+          <text y="36" fill="#5A5750" font-size="9">└─ ejecución sandbox · self-evolution</text>
+        </g>
+      </g>
+
+      
+      <g transform="translate(510, 50)">
+        <line x1="0" y1="0" x2="80" y2="0" stroke="#3A3A33" stroke-dasharray="2 3"></line>
+        <path d="M75 -3 L80 0 L75 3" fill="none" stroke="#3A3A33"></path>
+      </g>
+
+      
+      <g transform="translate(600, 0)">
+        <rect width="200" height="100" fill="#141411" stroke="#2A2A24"></rect>
+        <line x1="0" y1="22" x2="200" y2="22" stroke="#2A2A24"></line>
+        <text x="12" y="15" class="mono" font-size="10" fill="#F5B14C" letter-spacing="2">✦ MEMORIA RAG</text>
+        <text x="190" y="15" class="mono" font-size="9" fill="#5A5750" text-anchor="end" letter-spacing="1">vector</text>
+
+        <g transform="translate(12, 36)" class="mono" font-size="10">
+          <text fill="#F5F1E8">ChromaDB</text>
+          <text y="14" fill="#9A968A">Embeddings · 1536d</text>
+          <text y="28" fill="#9A968A">Inter-sesional</text>
+          <text y="42" fill="#5A5750" font-size="9">└─ aprendizaje continuo</text>
+        </g>
+      </g>
+
+      
+      <g transform="translate(810, 50)">
+        <line x1="0" y1="0" x2="80" y2="0" stroke="#3A3A33" stroke-dasharray="2 3"></line>
+        <path d="M75 -3 L80 0 L75 3" fill="none" stroke="#3A3A33"></path>
+      </g>
+
+      
+      <g transform="translate(900, 0)">
+        <rect width="200" height="100" fill="#141411" stroke="#2A2A24"></rect>
+        <line x1="0" y1="22" x2="200" y2="22" stroke="#2A2A24"></line>
+        <text x="12" y="15" class="mono" font-size="10" fill="#F5B14C" letter-spacing="2">↻ CICLO PHVA</text>
+        <text x="190" y="15" class="mono" font-size="9" fill="#5A5750" text-anchor="end" letter-spacing="1">loop</text>
+
+        <g transform="translate(12, 36)" class="mono" font-size="10">
+          <text fill="#F5F1E8">Plan → Execute</text>
+          <text y="14" fill="#F5F1E8">Verify → Iterate</text>
+          <text y="32" fill="#5A5750" font-size="9">└─ self-evolution skills</text>
+        </g>
+      </g>
+    </g>
+
+    
+    <g transform="translate(50, 180)">
+      <line x1="100" y1="0" x2="1000" y2="0" stroke="#3A3A33"></line>
+      <g stroke="#3A3A33" stroke-width="0.75">
+        <line x1="100" y1="0" x2="100" y2="-20"></line>
+        <line x1="400" y1="0" x2="400" y2="-20"></line>
+        <line x1="700" y1="0" x2="700" y2="-20"></line>
+        <line x1="1000" y1="0" x2="1000" y2="-20"></line>
+        <line x1="550" y1="0" x2="550" y2="20"></line>
+      </g>
+      <g transform="translate(490, 14)">
+        <rect width="120" height="18" fill="#0E0E0C" stroke="#F5B14C"></rect>
+        <text x="60" y="12" class="mono" font-size="10" fill="#F5B14C" text-anchor="middle" letter-spacing="2">RESULT 5–10x</text>
+      </g>
+    </g>
+  </g>
+</svg>

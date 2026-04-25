@@ -1,0 +1,181 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 480" width="1280" height="480" role="img" aria-label="Javier Gómez · Infraestructura Agéntica">
+  <defs>
+    
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0E0E0C"></stop>
+      <stop offset="1" stop-color="#1A1814"></stop>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.78" cy="0.4" r="0.5">
+      <stop offset="0" stop-color="#F5B14C" stop-opacity="0.18"></stop>
+      <stop offset="1" stop-color="#F5B14C" stop-opacity="0"></stop>
+    </radialGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#1F1F1B" stroke-width="0.5"></path>
+    </pattern>
+  </defs>
+
+  
+  <rect width="1280" height="480" fill="url(#bg)"></rect>
+  <rect width="1280" height="480" fill="url(#grid)" opacity="0.6"></rect>
+  <rect width="1280" height="480" fill="url(#glow)"></rect>
+
+  
+  <rect class="scanline" x="0" y="-2" width="1280" height="2" fill="#F5B14C" opacity="0.08"></rect>
+
+  
+  <g stroke="#3A3A33" stroke-width="1" fill="none">
+    <path d="M 24 24 L 24 56 M 24 24 L 56 24"></path>
+    <path d="M 1256 24 L 1256 56 M 1256 24 L 1224 24"></path>
+    <path d="M 24 456 L 24 424 M 24 456 L 56 456"></path>
+    <path d="M 1256 456 L 1256 424 M 1256 456 L 1224 456"></path>
+  </g>
+
+  
+  <g class="mono" font-size="10" letter-spacing="2">
+    <text x="48" y="44" fill="#F5B14C">▸ JAVIER_GÓMEZ.profile</text>
+    <text x="248" y="44" fill="#7A776E">v.2026.04 · BOG · UTC-05</text>
+    <circle cx="1090" cy="40" r="4" fill="#7AB87A" class="pulse"></circle>
+    <text x="1102" y="44" fill="#7AB87A">DISPONIBLE</text>
+    <text x="1232" y="44" fill="#7A776E" text-anchor="end">[●REC]</text>
+  </g>
+  <line x1="48" y1="56" x2="1232" y2="56" stroke="#2A2A24"></line>
+
+  
+  <g transform="translate(64, 110)">
+    <text class="mono" font-size="11" fill="#7A776E" letter-spacing="3">▸ INGENIERO INDUSTRIAL · IA AGÉNTICA</text>
+
+    <text class="serif" x="0" y="78" font-size="96" fill="#F5F1E8" letter-spacing="-3">Javier</text>
+    <text class="serif" x="0" y="170" font-size="96" fill="#F5B14C" font-style="italic" letter-spacing="-3">Gómez<tspan fill="#F5F1E8" font-style="normal">.</tspan></text>
+
+    <line x1="0" y1="200" x2="120" y2="200" stroke="#F5B14C" stroke-width="2"></line>
+
+    <text class="sans" x="0" y="230" font-size="15" fill="#B5B0A4" font-weight="400">Diseño y opero mi propia infraestructura</text>
+    <text class="sans" x="0" y="252" font-size="15" fill="#B5B0A4" font-weight="400">de IA para multiplicar mi capacidad <tspan fill="#F5B14C" font-weight="600">5–10×</tspan>.</text>
+
+    
+    <g transform="translate(0, 286)" class="mono" font-size="10" letter-spacing="2">
+      <g>
+        <rect width="120" height="22" fill="none" stroke="#3A3A33" rx="2"></rect>
+        <text x="10" y="15" fill="#9A968A">OIL &amp; GAS · 10y</text>
+      </g>
+      <g transform="translate(128, 0)">
+        <rect width="100" height="22" fill="none" stroke="#3A3A33" rx="2"></rect>
+        <text x="10" y="15" fill="#9A968A">RENOVABLES</text>
+      </g>
+      <g transform="translate(236, 0)">
+        <rect width="146" height="22" fill="#F5B14C" rx="2"></rect>
+        <text x="10" y="15" fill="#0E0E0C" font-weight="600">★ AGENTIC AI</text>
+      </g>
+    </g>
+  </g>
+
+  
+  <g transform="translate(740, 96)">
+    
+    <rect width="476" height="306" fill="#0A0A08" stroke="#2A2A24" rx="2"></rect>
+
+    
+    <rect width="476" height="28" fill="#15140F" stroke="#2A2A24" rx="2"></rect>
+    <g class="mono" font-size="10" letter-spacing="1.5">
+      <circle cx="14" cy="14" r="4" fill="#F5B14C" class="pulse"></circle>
+      <text x="26" y="18" fill="#F5F1E8" font-weight="600">PRISMA<tspan fill="#7A776E">.runtime</tspan></text>
+      <text x="180" y="18" fill="#7A776E">▸ orchestrator · local</text>
+      <text x="462" y="18" fill="#7AB87A" text-anchor="end">●●●</text>
+    </g>
+
+    
+    <text x="16" y="52" class="mono" font-size="9" fill="#5A5750" letter-spacing="2">AGENTES ACTIVOS · 6/6</text>
+
+    
+    <g class="mono" font-size="11">
+      
+      <g transform="translate(16, 64)">
+        <rect width="444" height="26" fill="#15140F" stroke="#2A2A24"></rect>
+        <circle cx="14" cy="13" r="3" fill="#F5B14C" class="pulse"></circle>
+        <text x="28" y="17" fill="#F5F1E8">router</text>
+        <text x="120" y="17" fill="#7A776E">→ analizando intent</text>
+        <text x="430" y="17" fill="#7AB87A" text-anchor="end">12ms</text>
+      </g>
+      
+      <g transform="translate(16, 92)">
+        <rect width="444" height="26" fill="#15140F" stroke="#2A2A24"></rect>
+        <circle cx="14" cy="13" r="3" fill="#7AB87A" class="pulse-2"></circle>
+        <text x="28" y="17" fill="#F5F1E8">coder</text>
+        <text x="120" y="17" fill="#7A776E">→ FastAPI scaffold</text>
+        <text x="430" y="17" fill="#7AB87A" text-anchor="end">RUN</text>
+      </g>
+      
+      <g transform="translate(16, 120)">
+        <rect width="444" height="26" fill="#15140F" stroke="#2A2A24"></rect>
+        <circle cx="14" cy="13" r="3" fill="#4A9EFF" class="pulse-3"></circle>
+        <text x="28" y="17" fill="#F5F1E8">researcher</text>
+        <text x="120" y="17" fill="#7A776E">→ RAG · 1.2k chunks</text>
+        <text x="430" y="17" fill="#4A9EFF" text-anchor="end">RAG</text>
+      </g>
+      
+      <g transform="translate(16, 148)">
+        <rect width="444" height="26" fill="#15140F" stroke="#2A2A24"></rect>
+        <circle cx="14" cy="13" r="3" fill="#F5B14C" class="pulse"></circle>
+        <text x="28" y="17" fill="#F5F1E8">auditor</text>
+        <text x="120" y="17" fill="#7A776E">→ QA · 0 issues</text>
+        <text x="430" y="17" fill="#7AB87A" text-anchor="end">PASS</text>
+      </g>
+      
+      <g transform="translate(16, 176)">
+        <rect width="444" height="26" fill="#15140F" stroke="#2A2A24"></rect>
+        <circle cx="14" cy="13" r="3" fill="#7A776E"></circle>
+        <text x="28" y="17" fill="#9A968A">writer</text>
+        <text x="120" y="17" fill="#5A5750">→ idle</text>
+        <text x="430" y="17" fill="#5A5750" text-anchor="end">···</text>
+      </g>
+    </g>
+
+    
+    <g transform="translate(16, 220)">
+      <text class="mono" font-size="9" fill="#5A5750" letter-spacing="2">▸ TELEMETRÍA · últimos 60s</text>
+
+      
+      <g transform="translate(0, 14)">
+        <text class="mono" font-size="9" fill="#9A968A">throughput</text>
+        <text class="mono" font-size="9" fill="#F5B14C" x="444" text-anchor="end">2.4k tok/s</text>
+        <rect y="14" width="444" height="3" fill="#1F1F1B"></rect>
+        <rect y="14" width="320" height="3" fill="#F5B14C"></rect>
+      </g>
+      
+      <g transform="translate(0, 32)">
+        <text class="mono" font-size="9" fill="#9A968A">context window</text>
+        <text class="mono" font-size="9" fill="#F5B14C" x="444" text-anchor="end">68%</text>
+        <rect y="14" width="444" height="3" fill="#1F1F1B"></rect>
+        <rect y="14" width="302" height="3" fill="#F5B14C"></rect>
+      </g>
+      
+      <g transform="translate(0, 50)">
+        <text class="mono" font-size="9" fill="#9A968A">RAG hit rate</text>
+        <text class="mono" font-size="9" fill="#7AB87A" x="444" text-anchor="end">94.2%</text>
+        <rect y="14" width="444" height="3" fill="#1F1F1B"></rect>
+        <rect y="14" width="418" height="3" fill="#7AB87A"></rect>
+      </g>
+    </g>
+
+    
+    <line x1="0" y1="280" x2="476" y2="280" stroke="#2A2A24"></line>
+    <g transform="translate(16, 295)" class="mono" font-size="10">
+      <text fill="#F5B14C">$</text>
+      <text x="14" fill="#F5F1E8">prisma run --task=&#34;diseñar portfolio&#34;</text>
+      <rect class="cursor" x="290" y="-9" width="6" height="11" fill="#F5B14C"></rect>
+    </g>
+  </g>
+
+  
+  <g transform="translate(64, 426)">
+    <text class="mono" font-size="10" fill="#7A776E" letter-spacing="2">DATOS</text>
+    <line x1="48" y1="-4" x2="180" y2="-4" stroke="#3A3A33" class="flow"></line>
+    <text x="190" y="0" class="mono" font-size="10" fill="#7A776E" letter-spacing="2">MODELO</text>
+    <line x1="248" y1="-4" x2="380" y2="-4" stroke="#3A3A33" class="flow"></line>
+    <text x="390" y="0" class="mono" font-size="10" fill="#7A776E" letter-spacing="2">DECISIÓN</text>
+    <line x1="466" y1="-4" x2="598" y2="-4" stroke="#3A3A33" class="flow"></line>
+    <text x="608" y="0" class="mono" font-size="10" fill="#F5B14C" letter-spacing="2">RESULTADO</text>
+
+    <text x="1170" y="0" class="mono" font-size="10" fill="#7A776E" letter-spacing="2" text-anchor="end">— PHVA · método antes que herramienta</text>
+  </g>
+</svg>

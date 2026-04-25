@@ -1,175 +1,209 @@
-<div align="center">
+<!--
+═══════════════════════════════════════════════════════════════════════════════
+  JAVIER GÓMEZ · INGENIERO INDUSTRIAL · OIL & GAS / RENOVABLES / IA AGÉNTICA
+  github.com/ingjaviergomezm  ·  v.2026.04
+═══════════════════════════════════════════════════════════════════════════════
+-->
 
-<h1>Javier Gómez</h1>
-
-<hr>
-
-<p>Especialista en Renovables y Eficiencia Energética · Esp. IA Agéntica &amp; Analítica de Datos</p>
-<p>Visionario · Blockchain Early Adopter · Gamer · Apasionado de las Tech</p>
-<p><em>"Si es medible, es mejorable"</em></p>
+<a href="https://ingjaviergomezm.github.io/">
+  <img src="./assets/banner.svg" alt="Javier Gómez · Infraestructura Agéntica" width="100%" />
+</a>
 
 <p>
-  <a href="https://ingjaviergomezm.github.io/" target="_blank" rel="noreferrer">Portafolio</a> ·
-  <a href="https://github.com/ingjaviergomezm/prisma" target="_blank" rel="noreferrer">Prisma (orquestador)</a> ·
-  <a href="mailto:ingjaviergomez222@gmail.com">Email</a> ·
-  <a href="https://www.linkedin.com/in/ingjaviergomezm/" target="_blank" rel="noreferrer">LinkedIn</a>
+  <a href="https://ingjaviergomezm.github.io/"><img alt="Portafolio" src="https://img.shields.io/badge/▶_PORTAFOLIO-ingjaviergomezm.github.io-F5B14C?style=for-the-badge&labelColor=0E0E0C"/></a>
+  <a href="https://www.linkedin.com/in/ingjaviergomezm/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-ingjaviergomezm-B5B0A4?style=for-the-badge&labelColor=0E0E0C&logo=linkedin&logoColor=B5B0A4"/></a>
+  <a href="mailto:ingjaviergomez222@gmail.com"><img alt="Email" src="https://img.shields.io/badge/✉-escríbeme-B5B0A4?style=for-the-badge&labelColor=0E0E0C"/></a>
+  <img alt="Status" src="https://img.shields.io/badge/●_disponible-7AB87A?style=for-the-badge&labelColor=0E0E0C"/>
 </p>
 
-<hr>
+---
 
-</div>
+## ` 01 ` ── propuesta de valor
+
+> No soy solo un ingeniero. Soy un ingeniero con su **propia infraestructura de IA**.
+> Diseñé y opero [**Prisma**](https://github.com/ingjaviergomezm/prisma) — un orquestador multi-agente local
+> que ejecuta tareas complejas de forma autónoma mientras yo me concentro en las decisiones.
+
+| ` 01 ` Tiempo | ` 02 ` Documentación | ` 03 ` QA | ` 04 ` Curva |
+|:---|:---|:---|:---|
+| **5–10x** | **segundos** | **auto** | **0** |
+| <sub>vs. ejecución manual</sub> | <sub>branding corporativo</sub> | <sub>agentes auditores</sub> | <sub>memoria RAG persistente</sub> |
+
+<img src="./assets/stack-agentic.svg" alt="Stack agéntico — Prisma + El Camello + RAG + PHVA" width="100%" />
 
 ---
 
-## 🚀 ¿MI PROPUESTA DE VALOR? EL FACTOR 10x
+## ` 02 ` ── manifiesto
+
+<img src="./assets/manifesto.svg" alt="01 Si es medible, es mejorable · 02 Método antes que herramienta · 03 Agentes, no asistentes · 04 El contexto es el activo" width="100%" />
+
+---
+
+## ` 03 ` ── caso destacado
+
+<img src="./assets/case-solar.svg" alt="Solar Project Planner — case study" width="100%" />
+
+> Cada caso documenta la cadena completa **problema → datos → modelo → decisión → resultado**.
+> Más en el [portafolio](https://ingjaviergomezm.github.io/).
+
+---
+
+## ` 04 ` ── proyectos seleccionados
+
+### `▣` IA Agéntica
 
 <table>
-  <tr>
-    <td width="60%">
+<tr>
+<td width="50%" valign="top">
 
-**No soy solo un ingeniero. Soy un ingeniero con su propia infraestructura de IA.**
+#### [Prisma](https://github.com/ingjaviergomezm/prisma) `★`
+**Orquestador multi-agente local**
 
-Diseñé y opero **[Prisma](https://github.com/ingjaviergomezm/prisma)** — un orquestador multi-agente local que ejecuta tareas complejas de forma autónoma: analiza datos con pandas, genera documentos Office con branding corporativo, corre código en sandbox aislado y aprende de cada uso.
+Router + 5 especialistas. Sandbox real, RAG inter-sesional, PHVA con self-evolution.
 
-Mientras otros profesionales actúan de forma aislada, yo coordino **agentes especializados** que trabajan en paralelo bajo un patrón `Plan → Execute → Verify → Iterate`.
-
-**Resultados medibles:**
-
-| Métrica | Impacto |
-|---|---|
-| ⏱️ Tiempo de entrega | Reducido **5–10x** vs. ejecución manual |
-| 📄 Documentación | Reportes, actas y presentaciones en **segundos**, con branding corporativo |
-| 🛡️ Aseguramiento de Calidad | Auditoría de seguridad y cumplimiento vía **agentes auditores QA** |
-| 🧠 Curva de aprendizaje | **Cero re-trabajo**: memoria persistente vía RAG + ChromaDB |
-| 🎼 Orquestación | Router + 5 especialistas · multi-modelo · 100% local |
+`LangGraph` `Claude` `OpenRouter` `ChromaDB`
 
 </td>
-<td width="40%">
+<td width="50%" valign="top">
 
-**🧩 Stack Agéntico**
+#### [El Camello](https://ingjaviergomezm.github.io/el-camello/) `★`
+**Stack de 16 agentes especializados**
 
-```
-🔌 MCPs (Model Context Protocol)
-   Gmail · Calendar · Drive · Sheets
-   GitHub · PostgreSQL · MSSQL
+Oficina corporativa de 5 pisos: docs, dashboards, presentaciones, webapps.
 
-🎯 Multi-Agente
-   5 especialistas en Prisma
-   16 skills en El Camello
-   ejecución real en sandbox
-
-🧠 Memoria Persistente (RAG)
-   ChromaDB · Knowledge Items
-   Aprendizaje inter-sesional
-
-♻️ Ciclo PHVA Autónomo
-   Plan → Execute → Verify → Iterate
-   Self-evolution de skills
-```
+`Multi-agent` `Python` `MCP` `FastAPI`
 
 </td>
-  </tr>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### [Axiona](https://ingjaviergomezm.github.io/Axiona/)
+**Antiprocrastinación con IA**
+
+Eisenhower + Kanban + Pomodoro con coaching iterativo.
+
+`React` `Tailwind v4` `Gemini API`
+
+</td>
+<td width="50%" valign="top">
+
+#### [PHVA Vectorizado](https://github.com/ingjaviergomezm/phva-vectorizado)
+**Resiliencia agéntica**
+
+Resuelve la amnesia estructural en LLM con persistencia vectorial.
+
+`Vector DB` `AI Resilience`
+
+</td>
+</tr>
 </table>
 
-> 💡 **En términos simples:** cada proyecto que ejecuto se apoya en una maquinaria invisible de agentes que investigan, redactan, auditan y prueban en paralelo. Tú recibes el resultado final con calidad enterprise en una fracción del tiempo.
+### `◈` Energía & Renovables · `▤` Data & Automatización
 
-### 📖 [Conoce Prisma, mi orquestador de agentes →](https://github.com/ingjaviergomezm/prisma)
+<table>
+<tr>
+<td width="50%" valign="top">
 
----
+#### [Solar Project Planner](https://solar-project-planner.vercel.app/) `★`
+Planificador técnico-financiero FV — mercado CO.
 
-## 👤 Perfil
-Ingeniero Industrial con **10+ años de experiencia** en operación, mejora continua y confiabilidad en **Oil & Gas**. Especialista en eficiencia energética, analítica aplicada e **Inteligencia Artificial Agéntica**. Diseño soluciones donde los datos, la automatización avanzada y las decisiones de negocio convergen para generar impacto real.
+`Energía Solar` `Finanzas` `IA`
 
-**Keywords:** `AI/ML` · `Process Automation` · `Data Analytics` · `Agentic AI` · `LLM Orchestration` · `RAG Systems` · `Python` · `SQL` · `Power BI` · `VBA` · `ISO 50001` · `ISO 14224` · `Energy Efficiency` · `Oil & Gas Operations` · `Continuous Improvement`
+</td>
+<td width="50%" valign="top">
 
----
+#### [Autodiagnóstico ISO 50001](https://ingjaviergomezm.github.io/autodiagnostico-eficiencia-energetica/)
+Madurez en gestión energética industrial.
 
-## 🧠 Stack (lo que realmente uso)
-- **IA & Automatización:** LangGraph, OpenRouter, Claude API, Gemini API, MCP, RAG (ChromaDB), Agentic Workflows
-- **Datos/BI:** Power BI, modelado dimensional, ETL, Python (pandas), SQL
-- **Productividad:** Automatización Office (VBA/Excel), generación de reportes corporativos, dashboards operativos, FastAPI, React + Vite
-- **Ingeniería:** Eficiencia energética, renovables, confiabilidad/operaciones, ISO 50001, ISO 14224
+`ISO 50001`
 
----
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-## Roadmap (IA aplicada a analítica)
-- [x] **Prisma** — orquestador multi-agente local ([Repo público](https://github.com/ingjaviergomezm/prisma))
-- [x] **El Camello** — stack de 16 skills IA con orquestador PM ([Repo](https://github.com/ingjaviergomezm/el-camello))
-- [x] **Memoria PHVA Vectorizada** — framework de resiliencia agéntica ([Repo](https://github.com/ingjaviergomezm/phva-vectorizado))
-- [ ] Portafolio de **casos** (problema → datos → modelo → decisión → resultado)
-- [ ] Serie de notebooks: limpieza, features, validación, métricas
-- [ ] Empaquetado Tauri de Prisma (`.exe` nativo de ~10 MB)
+#### [Dashboard ISO 14224](https://github.com/ingjaviergomezm/dashboard_mantenimiento_y_confiabilidad_iso14224)
+Mantenimiento & confiabilidad en Power BI.
 
----
+`Power BI` `ISO 14224`
 
-## 🚀 PROYECTOS TÉCNICOS DESTACADOS
+</td>
+<td width="50%" valign="top">
 
-### 🔹 IA Agéntica & Ecosistemas Inteligentes
+#### [Automatización VBA](https://github.com/ingjaviergomezm/Programacion_Calculo_Reporte_Divulgacion_de_Turnos_Automatizado_VBA)
+Programación de turnos & nómina.
 
-**Prisma — Tu coworker IA local · Orquestador multi-agente *(IA Agéntica)***
-![LangGraph](https://img.shields.io/badge/LangGraph-1.0-1c3c3c?style=flat-square) ![OpenRouter](https://img.shields.io/badge/OpenRouter-multi--modelo-ff7e29?style=flat-square) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-> Orquestador propio de agentes especializados corriendo 100% local. Router Mistral + 5 especialistas (datos, office, research, código, general) coordinados por LangGraph, con sandbox real de ejecución, streaming de tokens por WebSocket y ciclo `Plan → Execute → Verify → Iterate` con aprendizaje autónomo sobre las skills. Multi-modelo vía OpenRouter, sin lock-in. El código fuente es propietario; este repo contiene la documentación pública, arquitectura y screenshots.
-> **Repo:** https://github.com/ingjaviergomezm/prisma
+`VBA` `Excel`
 
-**El Camello — Stack de 16 Agentes de IA Especializados *(IA Agéntica)***
-![Multi-Agent](https://img.shields.io/badge/IA_Agéntica-MultiAgent-orange?style=flat-square) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![MCP](https://img.shields.io/badge/Architecture-Skills%2FMCP-yellow?style=flat-square)
-> Arquitectura modular de 16 Skills organizadas como una oficina corporativa de 5 pisos con un orquestador PM. Cada agente ejecuta tareas profesionales complejas: documentos, dashboards, presentaciones, webapps, arte generativo y MCPs. Demuestra dominio práctico de IA agéntica, prompting estructurado y diseño modular de agentes.
-> **Repo:** https://github.com/ingjaviergomezm/el-camello
-> **Demo:** https://ingjaviergomezm.github.io/el-camello/
-
-**Axiona — Ecosistema Antiprocrastinación potenciado por IA**
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![Gemini API](https://img.shields.io/badge/Gemini_API-AI-green?style=flat-square)
-> Aplicación web interactiva (React, Tailwind CSS v4) diseñada para productividad de alto rendimiento. Integra metodologías ágiles (Matriz Eisenhower, Kanban, Pomodoro) con **IA (Gemini API)** para el desglose automático de tareas y coaching analítico iterativo.
-> **Repo:** https://github.com/ingjaviergomezm/Axiona
-> **Demo:** https://ingjaviergomezm.github.io/Axiona/
-
-**Memoria PHVA Vectorizada — Framework de Resiliencia Agéntica**
-![AI Resilience](https://img.shields.io/badge/AI_Resilience-Persistent_Learning-blue?style=flat-square) ![Vector Database](https://img.shields.io/badge/Vector_Memory-ChromaDB-green?style=flat-square)
-> Manifiesto técnico + Skill operativa que implementa el ciclo PHVA con persistencia vectorial asíncrona. Resuelve la "Amnesia Estructural" en agentes LLM mediante destilación de lecciones aprendidas de logs históricos. Mitigación proactiva de errores y optimización drástica de tokens.
-> **Repo:** https://github.com/ingjaviergomezm/phva-vectorizado
+</td>
+</tr>
+</table>
 
 ---
 
-### 🔹 Energía, Operaciones & Eficiencia
+## ` 05 ` ── stack
 
-**Solar Project Planner — Planificador técnico-financiero con IA (Colombia)**
-![Renovables](https://img.shields.io/badge/Energía-Solar-FFB300?style=flat-square) ![Finanzas](https://img.shields.io/badge/Datos-Evaluación_Financiera-lightgrey?style=flat-square) ![IA](https://img.shields.io/badge/IA-Integración-blue?style=flat-square)
-> Aplicación web para la evaluación técnica, económica y financiera de sistemas fotovoltaicos, incorporando modelos de inteligencia artificial y supuestos normativos del mercado colombiano.
-> **Repo:** https://github.com/ingjaviergomezm/solar-project-planner
-> **Demo:** https://solar-project-planner.vercel.app/
+```text
+── IA & AUTOMATIZACIÓN ───────────────────────────────────────────────────
+   LangGraph · OpenRouter · Claude · Gemini · MCP · RAG (ChromaDB)
+   Multi-agent orchestration · Agentic workflows
 
-**Autodiagnóstico interactivo de eficiencia energética (ISO 50001)**
-![ISO 50001](https://img.shields.io/badge/ISO-50001-blue?style=flat-square) ![Eficiencia](https://img.shields.io/badge/Ingeniería-Eficiencia_Energética-green?style=flat-square)
-> Herramienta web para evaluar el nivel de madurez en gestión energética, alineada con los requisitos de la norma ISO 50001 y orientada a procesos industriales.
-> **Repo:** https://github.com/ingjaviergomezm/autodiagnostico-eficiencia-energetica
-> **Demo:** https://ingjaviergomezm.github.io/autodiagnostico-eficiencia-energetica/
+── DATOS & BI ────────────────────────────────────────────────────────────
+   Power BI · Modelado dimensional · ETL · Python (pandas) · SQL
 
----
+── PRODUCTIVIDAD ─────────────────────────────────────────────────────────
+   VBA / Excel · FastAPI · React + Vite · Dashboards operativos
 
-### 🔹 Data Analytics & Automatización
-
-**Power BI — Dashboard de gestión de mantenimiento y confiabilidad (ISO 14224)**
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![ISO 14224](https://img.shields.io/badge/ISO-14224-blue?style=flat-square) ![Data Analytics](https://img.shields.io/badge/Data_Analytics-Ingeniería-yellow?style=flat-square)
-> Dashboard analítico para seguimiento de activos, fallas y desempeño de mantenimiento basado en la taxonomía y principios de la norma ISO 14224.
-> **Repo:** https://github.com/ingjaviergomezm/dashboard_mantenimiento_y_confiabilidad_iso14224
-
-**Excel / VBA — Automatización de programación de turnos y reporte de nómina**
-![VBA](https://img.shields.io/badge/VBA-Automatización-blue?style=flat-square) ![Excel](https://img.shields.io/badge/Excel-Avanzado-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
-> Sistema automatizado para la programación operativa de turnos, cálculo de novedades de nómina y generación de reportes para RRHH, enfocado en supervisión operativa y cumplimiento laboral.
-> **Repo:** https://github.com/ingjaviergomezm/Programacion_Calculo_Reporte_Divulgacion_de_Turnos_Automatizado_VBA
+── INGENIERÍA ────────────────────────────────────────────────────────────
+   Eficiencia energética · Renovables · Confiabilidad · ISO 50001 · 14224
+```
 
 ---
 
-<div id="header" align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGFseDltbnNxanB3ZXB2ZmU4NWx5a3R1NWRtd3gzcXduZDJ5Y3BsNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H03PuVdwREB21ANkLX/giphy.gif" width="200"/>
-</div>
+## ` 06 ` ── actividad
 
-![Metrics](https://metrics.lecoq.io/https://github.com/ingjaviergomezm?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&pagespeed=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&pagespeed=false&pagespeed.url=https%3A%2F%2Fingjaviergomezm.github.io%2F&pagespeed.detailed=true&pagespeed.screenshot=false&pagespeed.pwa=false&config.timezone=America%2FBogota)
+<table>
+<tr>
+<td width="58%" valign="top">
 
-## 📫 CONTACTO DIRECTO
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ingjaviergomezm&layout=compact&langs_count=8&hide_border=true&bg_color=0E0E0C&title_color=F5B14C&text_color=E8E4DC&card_width=460" alt="Lenguajes" />
 
-- [LinkedIn](https://www.linkedin.com/in/ingjaviergomezm/)
-- [Portafolio Oficial](https://ingjaviergomezm.github.io/)
-- [Email Principal](mailto:ingjaviergomez222@gmail.com)
+</td>
+<td width="42%" valign="top">
 
-![Metrics](https://metrics.lecoq.io/https://github.com/ingjaviergomezm?template=classic&base.header=0&base.activity=0&base.community=0&base.metadata=0&activity=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&activity=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&config.timezone=America%2FBogota)
+<img src="https://github-readme-stats.vercel.app/api?username=ingjaviergomezm&hide_border=true&bg_color=0E0E0C&title_color=F5B14C&text_color=E8E4DC&icon_color=F5B14C&show_icons=true&hide=contribs&include_all_commits=true" alt="Stats" />
+
+</td>
+</tr>
+</table>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ingjaviergomezm/ingjaviergomezm/output/snake-dark.svg" />
+  <img alt="Snake contribution graph" src="https://raw.githubusercontent.com/ingjaviergomezm/ingjaviergomezm/output/snake.svg" />
+</picture>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ingjaviergomezm&bg_color=0E0E0C&color=E8E4DC&line=F5B14C&point=F5B14C&area=true&area_color=F5B14C&hide_border=true&custom_title=CONTRIBUCIONES%20·%20últimos%2012%20meses" alt="Actividad" width="100%" />
+
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=ingjaviergomezm&theme=monokai&no-frame=true&no-bg=true&column=7&margin-w=12" alt="Logros" width="100%" />
+</a>
+
+---
+
+## ` 07 ` ── colaboración
+
+**¿Un reto de IA agéntica, datos o energía?**
+Disponible para proyectos donde el método importa más que el modelo.
+Cada caso se discute, se mide y se documenta.
+
+<p>
+  <a href="https://ingjaviergomezm.github.io/"><img alt="Portafolio completo" src="https://img.shields.io/badge/▶_VER_PORTAFOLIO_COMPLETO-F5B14C?style=for-the-badge&labelColor=0E0E0C"/></a>
+  <a href="mailto:ingjaviergomez222@gmail.com"><img alt="Escríbeme" src="https://img.shields.io/badge/✉_ESCRÍBEME-B5B0A4?style=for-the-badge&labelColor=0E0E0C"/></a>
+</p>
+
+<sub>
+<code>© 2026 Javier Gómez · Colombia · UTC-05</code> &nbsp;·&nbsp;
+<code>diseñado para iterar</code> &nbsp;·&nbsp;
+<i>"Si es medible, es mejorable"</i>
+</sub>
