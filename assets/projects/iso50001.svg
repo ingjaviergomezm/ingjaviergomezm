@@ -46,9 +46,9 @@
 
   <!-- Chips de tags (esquina inferior izq) -->
   <g transform="translate(0, 226)">
-      <g transform="translate(64,0)"><rect width="75" height="22" rx="2" class="chip" stroke-width="1" class="stk-bord"/><rect width="75" height="22" rx="2" fill="none" stroke-width="1" class="stk-bord"/><text x="37.5" y="15" text-anchor="middle" class="mono fg-dim" font-size="10" letter-spacing="0.5">ISO 50001</text></g>
-      <g transform="translate(147,0)"><rect width="159" height="22" rx="2" class="chip" stroke-width="1" class="stk-bord"/><rect width="159" height="22" rx="2" fill="none" stroke-width="1" class="stk-bord"/><text x="79.5" y="15" text-anchor="middle" class="mono fg-dim" font-size="10" letter-spacing="0.5">Eficiencia Energética</text></g>
-      <g transform="translate(314,0)"><rect width="82" height="22" rx="2" class="chip" stroke-width="1" class="stk-bord"/><rect width="82" height="22" rx="2" fill="none" stroke-width="1" class="stk-bord"/><text x="41.0" y="15" text-anchor="middle" class="mono fg-dim" font-size="10" letter-spacing="0.5">Industrial</text></g>
+      <g transform="translate(64,0)"><rect width="75" height="22" rx="2" class="chip"/><rect width="75" height="22" rx="2" fill="none" stroke-width="1" class="stk-bord"/><text x="37.5" y="15" text-anchor="middle" class="mono fg-dim" font-size="10" letter-spacing="0.5">ISO 50001</text></g>
+      <g transform="translate(147,0)"><rect width="159" height="22" rx="2" class="chip"/><rect width="159" height="22" rx="2" fill="none" stroke-width="1" class="stk-bord"/><text x="79.5" y="15" text-anchor="middle" class="mono fg-dim" font-size="10" letter-spacing="0.5">Eficiencia Energética</text></g>
+      <g transform="translate(314,0)"><rect width="82" height="22" rx="2" class="chip"/><rect width="82" height="22" rx="2" fill="none" stroke-width="1" class="stk-bord"/><text x="41.0" y="15" text-anchor="middle" class="mono fg-dim" font-size="10" letter-spacing="0.5">Industrial</text></g>
   </g>
 
   <!-- Motivo visual lado derecho -->

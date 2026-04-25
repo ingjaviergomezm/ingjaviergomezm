@@ -46,10 +46,10 @@
 
   <!-- Chips de tags (esquina inferior izq) -->
   <g transform="translate(0, 226)">
-      <g transform="translate(64,0)"><rect width="103" height="22" rx="2" class="chip" stroke-width="1" class="stk-bord"/><rect width="103" height="22" rx="2" fill="none" stroke-width="1" class="stk-bord"/><text x="51.5" y="15" text-anchor="middle" class="mono fg-dim" font-size="10" letter-spacing="0.5">Energía Solar</text></g>
-      <g transform="translate(175,0)"><rect width="68" height="22" rx="2" class="chip" stroke-width="1" class="stk-bord"/><rect width="68" height="22" rx="2" fill="none" stroke-width="1" class="stk-bord"/><text x="34.0" y="15" text-anchor="middle" class="mono fg-dim" font-size="10" letter-spacing="0.5">Finanzas</text></g>
-      <g transform="translate(251,0)"><rect width="26" height="22" rx="2" class="chip" stroke-width="1" class="stk-bord"/><rect width="26" height="22" rx="2" fill="none" stroke-width="1" class="stk-bord"/><text x="13.0" y="15" text-anchor="middle" class="mono fg-dim" font-size="10" letter-spacing="0.5">IA</text></g>
-      <g transform="translate(285,0)"><rect width="68" height="22" rx="2" class="chip" stroke-width="1" class="stk-bord"/><rect width="68" height="22" rx="2" fill="none" stroke-width="1" class="stk-bord"/><text x="34.0" y="15" text-anchor="middle" class="mono fg-dim" font-size="10" letter-spacing="0.5">Colombia</text></g>
+      <g transform="translate(64,0)"><rect width="103" height="22" rx="2" class="chip"/><rect width="103" height="22" rx="2" fill="none" stroke-width="1" class="stk-bord"/><text x="51.5" y="15" text-anchor="middle" class="mono fg-dim" font-size="10" letter-spacing="0.5">Energía Solar</text></g>
+      <g transform="translate(175,0)"><rect width="68" height="22" rx="2" class="chip"/><rect width="68" height="22" rx="2" fill="none" stroke-width="1" class="stk-bord"/><text x="34.0" y="15" text-anchor="middle" class="mono fg-dim" font-size="10" letter-spacing="0.5">Finanzas</text></g>
+      <g transform="translate(251,0)"><rect width="26" height="22" rx="2" class="chip"/><rect width="26" height="22" rx="2" fill="none" stroke-width="1" class="stk-bord"/><text x="13.0" y="15" text-anchor="middle" class="mono fg-dim" font-size="10" letter-spacing="0.5">IA</text></g>
+      <g transform="translate(285,0)"><rect width="68" height="22" rx="2" class="chip"/><rect width="68" height="22" rx="2" fill="none" stroke-width="1" class="stk-bord"/><text x="34.0" y="15" text-anchor="middle" class="mono fg-dim" font-size="10" letter-spacing="0.5">Colombia</text></g>
   </g>
 
   <!-- Motivo visual lado derecho -->

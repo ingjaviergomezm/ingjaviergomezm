@@ -46,10 +46,10 @@
 
   <!-- Chips de tags (esquina inferior izq) -->
   <g transform="translate(0, 226)">
-      <g transform="translate(64,0)"><rect width="103" height="22" rx="2" class="chip" stroke-width="1" class="stk-bord"/><rect width="103" height="22" rx="2" fill="none" stroke-width="1" class="stk-bord"/><text x="51.5" y="15" text-anchor="middle" class="mono fg-dim" font-size="10" letter-spacing="0.5">AI Resilience</text></g>
-      <g transform="translate(175,0)"><rect width="75" height="22" rx="2" class="chip" stroke-width="1" class="stk-bord"/><rect width="75" height="22" rx="2" fill="none" stroke-width="1" class="stk-bord"/><text x="37.5" y="15" text-anchor="middle" class="mono fg-dim" font-size="10" letter-spacing="0.5">Vector DB</text></g>
-      <g transform="translate(258,0)"><rect width="68" height="22" rx="2" class="chip" stroke-width="1" class="stk-bord"/><rect width="68" height="22" rx="2" fill="none" stroke-width="1" class="stk-bord"/><text x="34.0" y="15" text-anchor="middle" class="mono fg-dim" font-size="10" letter-spacing="0.5">ChromaDB</text></g>
-      <g transform="translate(334,0)"><rect width="82" height="22" rx="2" class="chip" stroke-width="1" class="stk-bord"/><rect width="82" height="22" rx="2" fill="none" stroke-width="1" class="stk-bord"/><text x="41.0" y="15" text-anchor="middle" class="mono fg-dim" font-size="10" letter-spacing="0.5">Manifiesto</text></g>
+      <g transform="translate(64,0)"><rect width="103" height="22" rx="2" class="chip"/><rect width="103" height="22" rx="2" fill="none" stroke-width="1" class="stk-bord"/><text x="51.5" y="15" text-anchor="middle" class="mono fg-dim" font-size="10" letter-spacing="0.5">AI Resilience</text></g>
+      <g transform="translate(175,0)"><rect width="75" height="22" rx="2" class="chip"/><rect width="75" height="22" rx="2" fill="none" stroke-width="1" class="stk-bord"/><text x="37.5" y="15" text-anchor="middle" class="mono fg-dim" font-size="10" letter-spacing="0.5">Vector DB</text></g>
+      <g transform="translate(258,0)"><rect width="68" height="22" rx="2" class="chip"/><rect width="68" height="22" rx="2" fill="none" stroke-width="1" class="stk-bord"/><text x="34.0" y="15" text-anchor="middle" class="mono fg-dim" font-size="10" letter-spacing="0.5">ChromaDB</text></g>
+      <g transform="translate(334,0)"><rect width="82" height="22" rx="2" class="chip"/><rect width="82" height="22" rx="2" fill="none" stroke-width="1" class="stk-bord"/><text x="41.0" y="15" text-anchor="middle" class="mono fg-dim" font-size="10" letter-spacing="0.5">Manifiesto</text></g>
   </g>
 
   <!-- Motivo visual lado derecho -->

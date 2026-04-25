@@ -46,10 +46,10 @@
 
   <!-- Chips de tags (esquina inferior izq) -->
   <g transform="translate(0, 226)">
-      <g transform="translate(64,0)"><rect width="89" height="22" rx="2" class="chip" stroke-width="1" class="stk-bord"/><rect width="89" height="22" rx="2" fill="none" stroke-width="1" class="stk-bord"/><text x="44.5" y="15" text-anchor="middle" class="mono fg-dim" font-size="10" letter-spacing="0.5">Multi-agent</text></g>
-      <g transform="translate(161,0)"><rect width="54" height="22" rx="2" class="chip" stroke-width="1" class="stk-bord"/><rect width="54" height="22" rx="2" fill="none" stroke-width="1" class="stk-bord"/><text x="27.0" y="15" text-anchor="middle" class="mono fg-dim" font-size="10" letter-spacing="0.5">Python</text></g>
-      <g transform="translate(223,0)"><rect width="33" height="22" rx="2" class="chip" stroke-width="1" class="stk-bord"/><rect width="33" height="22" rx="2" fill="none" stroke-width="1" class="stk-bord"/><text x="16.5" y="15" text-anchor="middle" class="mono fg-dim" font-size="10" letter-spacing="0.5">MCP</text></g>
-      <g transform="translate(264,0)"><rect width="54" height="22" rx="2" class="chip" stroke-width="1" class="stk-bord"/><rect width="54" height="22" rx="2" fill="none" stroke-width="1" class="stk-bord"/><text x="27.0" y="15" text-anchor="middle" class="mono fg-dim" font-size="10" letter-spacing="0.5">Skills</text></g>
+      <g transform="translate(64,0)"><rect width="89" height="22" rx="2" class="chip"/><rect width="89" height="22" rx="2" fill="none" stroke-width="1" class="stk-bord"/><text x="44.5" y="15" text-anchor="middle" class="mono fg-dim" font-size="10" letter-spacing="0.5">Multi-agent</text></g>
+      <g transform="translate(161,0)"><rect width="54" height="22" rx="2" class="chip"/><rect width="54" height="22" rx="2" fill="none" stroke-width="1" class="stk-bord"/><text x="27.0" y="15" text-anchor="middle" class="mono fg-dim" font-size="10" letter-spacing="0.5">Python</text></g>
+      <g transform="translate(223,0)"><rect width="33" height="22" rx="2" class="chip"/><rect width="33" height="22" rx="2" fill="none" stroke-width="1" class="stk-bord"/><text x="16.5" y="15" text-anchor="middle" class="mono fg-dim" font-size="10" letter-spacing="0.5">MCP</text></g>
+      <g transform="translate(264,0)"><rect width="54" height="22" rx="2" class="chip"/><rect width="54" height="22" rx="2" fill="none" stroke-width="1" class="stk-bord"/><text x="27.0" y="15" text-anchor="middle" class="mono fg-dim" font-size="10" letter-spacing="0.5">Skills</text></g>
   </g>
 
   <!-- Motivo visual lado derecho -->

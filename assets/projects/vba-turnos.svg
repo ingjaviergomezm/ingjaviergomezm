@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 280" width="1280" height="280" role="img" aria-label="VBA turnos — Programación operativa & nómina automatizada">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 280" width="1280" height="280" role="img" aria-label="VBA turnos — Programación operativa &amp; nómina automatizada">
   <style>
     .fg{fill:#F5F1E8}.fg-dim{fill:#B5B0A4}.muted{fill:#7A776E}.faint{fill:#5A5750}
     .stk-fg{stroke:#F5F1E8}.stk-mut{stroke:#3A3A33}.stk-bord{stroke:#2A2A24}.stk-acc{stroke:#F5B14C}
@@ -37,7 +37,7 @@
   </g>
 
   <!-- Subtítulo -->
-  <text x="64" y="156" class="serif fg-dim" font-size="20" font-style="italic">Programación operativa & nómina automatizada</text>
+  <text x="64" y="156" class="serif fg-dim" font-size="20" font-style="italic">Programación operativa &amp; nómina automatizada</text>
 
   <!-- Descripción 2-3 líneas -->
   <text x="64" y="178" class="sans fg-dim" font-size="13">Sistema en Excel + VBA para programar turnos de 12 horas, calcular automáticamente recargos</text>
@@ -46,10 +46,10 @@
 
   <!-- Chips de tags (esquina inferior izq) -->
   <g transform="translate(0, 226)">
-      <g transform="translate(64,0)"><rect width="33" height="22" rx="2" class="chip" stroke-width="1" class="stk-bord"/><rect width="33" height="22" rx="2" fill="none" stroke-width="1" class="stk-bord"/><text x="16.5" y="15" text-anchor="middle" class="mono fg-dim" font-size="10" letter-spacing="0.5">VBA</text></g>
-      <g transform="translate(105,0)"><rect width="110" height="22" rx="2" class="chip" stroke-width="1" class="stk-bord"/><rect width="110" height="22" rx="2" fill="none" stroke-width="1" class="stk-bord"/><text x="55.0" y="15" text-anchor="middle" class="mono fg-dim" font-size="10" letter-spacing="0.5">Excel Avanzado</text></g>
-      <g transform="translate(223,0)"><rect width="54" height="22" rx="2" class="chip" stroke-width="1" class="stk-bord"/><rect width="54" height="22" rx="2" fill="none" stroke-width="1" class="stk-bord"/><text x="27.0" y="15" text-anchor="middle" class="mono fg-dim" font-size="10" letter-spacing="0.5">Nómina</text></g>
-      <g transform="translate(285,0)"><rect width="68" height="22" rx="2" class="chip" stroke-width="1" class="stk-bord"/><rect width="68" height="22" rx="2" fill="none" stroke-width="1" class="stk-bord"/><text x="34.0" y="15" text-anchor="middle" class="mono fg-dim" font-size="10" letter-spacing="0.5">Legal CO</text></g>
+      <g transform="translate(64,0)"><rect width="33" height="22" rx="2" class="chip"/><rect width="33" height="22" rx="2" fill="none" stroke-width="1" class="stk-bord"/><text x="16.5" y="15" text-anchor="middle" class="mono fg-dim" font-size="10" letter-spacing="0.5">VBA</text></g>
+      <g transform="translate(105,0)"><rect width="110" height="22" rx="2" class="chip"/><rect width="110" height="22" rx="2" fill="none" stroke-width="1" class="stk-bord"/><text x="55.0" y="15" text-anchor="middle" class="mono fg-dim" font-size="10" letter-spacing="0.5">Excel Avanzado</text></g>
+      <g transform="translate(223,0)"><rect width="54" height="22" rx="2" class="chip"/><rect width="54" height="22" rx="2" fill="none" stroke-width="1" class="stk-bord"/><text x="27.0" y="15" text-anchor="middle" class="mono fg-dim" font-size="10" letter-spacing="0.5">Nómina</text></g>
+      <g transform="translate(285,0)"><rect width="68" height="22" rx="2" class="chip"/><rect width="68" height="22" rx="2" fill="none" stroke-width="1" class="stk-bord"/><text x="34.0" y="15" text-anchor="middle" class="mono fg-dim" font-size="10" letter-spacing="0.5">Legal CO</text></g>
   </g>
 
   <!-- Motivo visual lado derecho -->
