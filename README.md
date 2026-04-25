@@ -1,27 +1,23 @@
-
 <div align="center">
 
-<!-- Banner (opcional): sube una imagen a /assets/banner.png y descomenta la línea de abajo -->
-<!-- <img src="assets/banner.png" alt="Banner" width="100%" /> -->
-
-<h1>Javier Gómez </h1>
+<h1>Javier Gómez</h1>
 
 <hr>
 
-<p>Especialista en Renovables y Eficiencia Energética | Esp. IA & Analítica de Datos
-</p>Visionario · Blockchain Early Adopter · Gamer · Apasionado de las Tech · Vibe Coder</p>
-</p>"Si es Medible es Mejorable"</p>
+<p>Especialista en Renovables y Eficiencia Energética · Esp. IA Agéntica &amp; Analítica de Datos</p>
+<p>Visionario · Blockchain Early Adopter · Gamer · Apasionado de las Tech</p>
+<p><em>"Si es medible, es mejorable"</em></p>
 
 <p>
-  <a href="https://ingjaviergomezm.github.io/" target="_blank" rel="noreferrer">Portafolio</a> · 
-  <a href="mailto:ingjaviergomez222@gmail.com">Email</a> · 
-  <a href="https://github.com/ingjaviergomezm" target="_blank" rel="noreferrer">GitHub</a>
+  <a href="https://ingjaviergomezm.github.io/" target="_blank" rel="noreferrer">Portafolio</a> ·
+  <a href="https://github.com/ingjaviergomezm/prisma" target="_blank" rel="noreferrer">Prisma (orquestador)</a> ·
+  <a href="mailto:ingjaviergomez222@gmail.com">Email</a> ·
+  <a href="https://www.linkedin.com/in/ingjaviergomezm/" target="_blank" rel="noreferrer">LinkedIn</a>
 </p>
 
 <hr>
 
 </div>
-
 
 ---
 
@@ -33,17 +29,19 @@
 
 **No soy solo un ingeniero. Soy un ingeniero con su propia infraestructura de IA.**
 
-He construido y opero un ecosistema de **Inteligencia Artificial Agéntica** que multiplica mi capacidad de entrega. Mientras otros profesionales actúan de forma aislada, yo orquesto **agentes especializados** que ejecutan tareas complejas de forma autónoma: desde generar documentación técnica con branding corporativo hasta auditar sistemas críticos en tiempo real.
+Diseñé y opero **[Prisma](https://github.com/ingjaviergomezm/prisma)** — un orquestador multi-agente local que ejecuta tareas complejas de forma autónoma: analiza datos con pandas, genera documentos Office con branding corporativo, corre código en sandbox aislado y aprende de cada uso.
+
+Mientras otros profesionales actúan de forma aislada, yo coordino **agentes especializados** que trabajan en paralelo bajo un patrón `Plan → Execute → Verify → Iterate`.
 
 **Resultados medibles:**
 
 | Métrica | Impacto |
 |---|---|
 | ⏱️ Tiempo de entrega | Reducido **5–10x** vs. ejecución manual |
-| 📄 Documentación | Reportes, actas y presentaciones en **segundos**, bajo formatos estandarizados y branding corporativo |
-| 🛡️ Aseguramiento de Calidad | Auditoría de seguridad, deuda técnica y cumplimiento mediante **agentes auditores QA automatizados** |
-| 🧠 Curva de aprendizaje | **Cero re-trabajo**: el sistema recuerda decisiones y lecciones previas |
-| 🎼 RAG & Orquestación | Arquitectura con **memoria a largo plazo** y orquestación multi-agente para contextos de alta complejidad |
+| 📄 Documentación | Reportes, actas y presentaciones en **segundos**, con branding corporativo |
+| 🛡️ Aseguramiento de Calidad | Auditoría de seguridad y cumplimiento vía **agentes auditores QA** |
+| 🧠 Curva de aprendizaje | **Cero re-trabajo**: memoria persistente vía RAG + ChromaDB |
+| 🎼 Orquestación | Router + 5 especialistas · multi-modelo · 100% local |
 
 </td>
 <td width="40%">
@@ -55,27 +53,27 @@ He construido y opero un ecosistema de **Inteligencia Artificial Agéntica** que
    Gmail · Calendar · Drive · Sheets
    GitHub · PostgreSQL · MSSQL
 
-🎯 40+ Skills Especializadas
-   Documentos · Presentaciones
-   Dashboards · QA · Arquitectura
-   Investigación · Orquestación
+🎯 Multi-Agente
+   5 especialistas en Prisma
+   16 skills en El Camello
+   ejecución real en sandbox
 
 🧠 Memoria Persistente (RAG)
-   Knowledge Items · Vector DB
+   ChromaDB · Knowledge Items
    Aprendizaje inter-sesional
 
 ♻️ Ciclo PHVA Autónomo
-   Plan → Do → Check → Act
-   Self-evolution automática
+   Plan → Execute → Verify → Iterate
+   Self-evolution de skills
 ```
 
 </td>
   </tr>
 </table>
 
-> 💡 **En términos simples:** cada proyecto que ejecuto se beneficia de una maquinaria invisible de agentes que investigan, redactan, auditan y prueban en paralelo. Tú recibes el resultado final con calidad enterprise en una fracción del tiempo.
+> 💡 **En términos simples:** cada proyecto que ejecuto se apoya en una maquinaria invisible de agentes que investigan, redactan, auditan y prueban en paralelo. Tú recibes el resultado final con calidad enterprise en una fracción del tiempo.
 
-### 📖 [Lee la guía completa de mi infraestructura →](https://github.com/ingjaviergomezm/blog_mas_alla_del_vibe_coding)
+### 📖 [Conoce Prisma, mi orquestador de agentes →](https://github.com/ingjaviergomezm/prisma)
 
 ---
 
@@ -87,19 +85,20 @@ Ingeniero Industrial con **10+ años de experiencia** en operación, mejora cont
 ---
 
 ## 🧠 Stack (lo que realmente uso)
-- **IA & Automatización:** Antigravity IDE, Gemini API, LLM Orchestration, MCP, RAG Systems, Agentic Workflows
+- **IA & Automatización:** LangGraph, OpenRouter, Claude API, Gemini API, MCP, RAG (ChromaDB), Agentic Workflows
 - **Datos/BI:** Power BI, modelado dimensional, ETL, Python (pandas), SQL
-- **Productividad:** Automatización Office (VBA/Excel), generación de reportes corporativos, dashboards operativos
+- **Productividad:** Automatización Office (VBA/Excel), generación de reportes corporativos, dashboards operativos, FastAPI, React + Vite
 - **Ingeniería:** Eficiencia energética, renovables, confiabilidad/operaciones, ISO 50001, ISO 14224
 
 ---
 
 ## Roadmap (IA aplicada a analítica)
-- [x] **Productividad Agéntica 10x:** Publicación de mi infraestructura robusta ([Repo](https://github.com/ingjaviergomezm/blog_mas_alla_del_vibe_coding))
-- [x] IA agéntica: arquitectura de 16 Skills con orquestación multi-agente ([El Camello](https://github.com/ingjaviergomezm/el-camello))
+- [x] **Prisma** — orquestador multi-agente local ([Repo público](https://github.com/ingjaviergomezm/prisma))
+- [x] **El Camello** — stack de 16 skills IA con orquestador PM ([Repo](https://github.com/ingjaviergomezm/el-camello))
+- [x] **Memoria PHVA Vectorizada** — framework de resiliencia agéntica ([Repo](https://github.com/ingjaviergomezm/phva-vectorizado))
 - [ ] Portafolio de **casos** (problema → datos → modelo → decisión → resultado)
 - [ ] Serie de notebooks: limpieza, features, validación, métricas
-- [ ] Un proyecto end-to-end con despliegue (API o dashboard)
+- [ ] Empaquetado Tauri de Prisma (`.exe` nativo de ~10 MB)
 
 ---
 
@@ -107,58 +106,59 @@ Ingeniero Industrial con **10+ años de experiencia** en operación, mejora cont
 
 ### 🔹 IA Agéntica & Ecosistemas Inteligentes
 
-**Web App — Productividad Agéntica 10x — El Factor Diferencial *(IA Agéntica)***  
-![Antigravity](https://img.shields.io/badge/Antigravity-Google%-blue?style=flat-square) ![Infrastructure](https://img.shields.io/badge/Infrastructure-Agentic-orange?style=flat-square) ![Productivity](https://img.shields.io/badge/Productivity-10x-green?style=flat-square)
-> Publicación detallada de mi infraestructura de agentes. Presento el despliegue de un ecosistema de productividad basado en Antigravity IDE que incluye orquestación táctica, MCPs, Skills especializadas y memoria persistente (RAG). Al contratarme, obtienes acceso a toda esta maquinaria que multiplica mi capacidad de entrega técnica y analítica asegurando calidad enterprise.  
-> **Repo:** https://github.com/ingjaviergomezm/blog_mas_alla_del_vibe_coding
+**Prisma — Tu coworker IA local · Orquestador multi-agente *(IA Agéntica)***
+![LangGraph](https://img.shields.io/badge/LangGraph-1.0-1c3c3c?style=flat-square) ![OpenRouter](https://img.shields.io/badge/OpenRouter-multi--modelo-ff7e29?style=flat-square) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+> Orquestador propio de agentes especializados corriendo 100% local. Router Mistral + 5 especialistas (datos, office, research, código, general) coordinados por LangGraph, con sandbox real de ejecución, streaming de tokens por WebSocket y ciclo `Plan → Execute → Verify → Iterate` con aprendizaje autónomo sobre las skills. Multi-modelo vía OpenRouter, sin lock-in. El código fuente es propietario; este repo contiene la documentación pública, arquitectura y screenshots.
+> **Repo:** https://github.com/ingjaviergomezm/prisma
 
-**Web App — El Camello — Stack de 16 Agentes de IA Especializados *(IA Agéntica)***  
-![Antigravity](https://img.shields.io/badge/Antigravity-Google%-blue?style=flat-square) ![IA Agéntica](https://img.shields.io/badge/IA_Agéntica-MultiAgent-orange?style=flat-square) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Architecture](https://img.shields.io/badge/Architecture-Skills%2FMCP-yellow?style=flat-square)
-> Arquitectura de 16 Skills para Antigravity (Google DeepMind), organizadas como una oficina corporativa de 5 pisos con un orquestador PM. Cada agente ejecuta tareas profesionales complejas: documentos, dashboards, presentaciones, webapps, arte generativo y MCPs. Demuestra dominio práctico de IA agéntica, prompting estructurado y diseño modular de agentes.  
-> **Repo:** https://github.com/ingjaviergomezm/el-camello  
+**El Camello — Stack de 16 Agentes de IA Especializados *(IA Agéntica)***
+![Multi-Agent](https://img.shields.io/badge/IA_Agéntica-MultiAgent-orange?style=flat-square) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![MCP](https://img.shields.io/badge/Architecture-Skills%2FMCP-yellow?style=flat-square)
+> Arquitectura modular de 16 Skills organizadas como una oficina corporativa de 5 pisos con un orquestador PM. Cada agente ejecuta tareas profesionales complejas: documentos, dashboards, presentaciones, webapps, arte generativo y MCPs. Demuestra dominio práctico de IA agéntica, prompting estructurado y diseño modular de agentes.
+> **Repo:** https://github.com/ingjaviergomezm/el-camello
 > **Demo:** https://ingjaviergomezm.github.io/el-camello/
 
-**Web App — Axiona: Ecosistema Antiprocrastinación potenciado por IA**  
+**Axiona — Ecosistema Antiprocrastinación potenciado por IA**
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![Gemini API](https://img.shields.io/badge/Gemini_API-AI-green?style=flat-square)
-> Aplicación web interactiva (React, Tailwind CSS v4) diseñada para productividad de alto rendimiento. Integra metodologías ágiles (Matriz Eisenhower, Kanban, Pomodoro) con **Inteligencia Artificial (Gemini API)** para el desglose automático de tareas y coaching analítico iterativo. Demuestra desarrollo de UI/UX modernos, gestión de estado y llamadas API.  
-> **Repo:** https://github.com/ingjaviergomezm/Axiona  
+> Aplicación web interactiva (React, Tailwind CSS v4) diseñada para productividad de alto rendimiento. Integra metodologías ágiles (Matriz Eisenhower, Kanban, Pomodoro) con **IA (Gemini API)** para el desglose automático de tareas y coaching analítico iterativo.
+> **Repo:** https://github.com/ingjaviergomezm/Axiona
 > **Demo:** https://ingjaviergomezm.github.io/Axiona/
 
-**Manifiesto & Skill — Memoria PHVA Vectorizada: Framework de Resiliencia Agéntica**  
-![AI Resilience](https://img.shields.io/badge/AI_Resilience-Persistent_Learning-blue?style=flat-square) ![Vector Database](https://img.shields.io/badge/Vector_Memory-Chromadb%2FPinecone-green?style=flat-square) ![Specialist](https://img.shields.io/badge/Concept-Blueprint_Meridian-gold?style=flat-square)
-> Desarrollo de un manifiesto técnico y Skill operativa que implementa el ciclo PHVA con persistencia vectorial asíncrona. Resuelve la "Amnesia Estructural" en agentes LLM, logrando una evolución de la memoria inter-sesional mediante la destilación de lecciones aprendidas de logs históricos. Mitigación proactiva de errores y optimización drástica de tokens.  
+**Memoria PHVA Vectorizada — Framework de Resiliencia Agéntica**
+![AI Resilience](https://img.shields.io/badge/AI_Resilience-Persistent_Learning-blue?style=flat-square) ![Vector Database](https://img.shields.io/badge/Vector_Memory-ChromaDB-green?style=flat-square)
+> Manifiesto técnico + Skill operativa que implementa el ciclo PHVA con persistencia vectorial asíncrona. Resuelve la "Amnesia Estructural" en agentes LLM mediante destilación de lecciones aprendidas de logs históricos. Mitigación proactiva de errores y optimización drástica de tokens.
 > **Repo:** https://github.com/ingjaviergomezm/phva-vectorizado
 
 ---
 
 ### 🔹 Energía, Operaciones & Eficiencia
 
-**Web App — Planificador técnico-financiero de proyectos solares con IA (Colombia)**  
+**Solar Project Planner — Planificador técnico-financiero con IA (Colombia)**
 ![Renovables](https://img.shields.io/badge/Energía-Solar-FFB300?style=flat-square) ![Finanzas](https://img.shields.io/badge/Datos-Evaluación_Financiera-lightgrey?style=flat-square) ![IA](https://img.shields.io/badge/IA-Integración-blue?style=flat-square)
-> Aplicación web para la evaluación técnica, económica y financiera de sistemas fotovoltaicos, incorporando modelos de inteligencia artificial y supuestos normativos del mercado colombiano.  
-> **Repo:** https://github.com/ingjaviergomezm/solar-project-planner  
+> Aplicación web para la evaluación técnica, económica y financiera de sistemas fotovoltaicos, incorporando modelos de inteligencia artificial y supuestos normativos del mercado colombiano.
+> **Repo:** https://github.com/ingjaviergomezm/solar-project-planner
 > **Demo:** https://solar-project-planner.vercel.app/
 
-**Web App — Autodiagnóstico interactivo de eficiencia energética (ISO 50001)**  
-![ISO 50001](https://img.shields.io/badge/ISO-50001-blue?style=flat-square) ![Eficiencia](https://img.shields.io/badge/Ingeniería-Eficiencia_Energética-green?style=flat-square) 
-> Herramienta web para evaluar el nivel de madurez en gestión energética, alineada con los requisitos de la norma ISO 50001 y orientada a procesos industriales.  
-> **Repo:** https://github.com/ingjaviergomezm/autodiagnostico-eficiencia-energetica  
+**Autodiagnóstico interactivo de eficiencia energética (ISO 50001)**
+![ISO 50001](https://img.shields.io/badge/ISO-50001-blue?style=flat-square) ![Eficiencia](https://img.shields.io/badge/Ingeniería-Eficiencia_Energética-green?style=flat-square)
+> Herramienta web para evaluar el nivel de madurez en gestión energética, alineada con los requisitos de la norma ISO 50001 y orientada a procesos industriales.
+> **Repo:** https://github.com/ingjaviergomezm/autodiagnostico-eficiencia-energetica
 > **Demo:** https://ingjaviergomezm.github.io/autodiagnostico-eficiencia-energetica/
 
 ---
 
 ### 🔹 Data Analytics & Automatización
 
-**Power BI — Dashboard de gestión de mantenimiento y confiabilidad (ISO 14224)**  
+**Power BI — Dashboard de gestión de mantenimiento y confiabilidad (ISO 14224)**
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![ISO 14224](https://img.shields.io/badge/ISO-14224-blue?style=flat-square) ![Data Analytics](https://img.shields.io/badge/Data_Analytics-Ingeniería-yellow?style=flat-square)
-> Dashboard analítico para seguimiento de activos, fallas y desempeño de mantenimiento basado en la taxonomía y principios de la norma ISO 14224.  
+> Dashboard analítico para seguimiento de activos, fallas y desempeño de mantenimiento basado en la taxonomía y principios de la norma ISO 14224.
 > **Repo:** https://github.com/ingjaviergomezm/dashboard_mantenimiento_y_confiabilidad_iso14224
 
-**Excel / VBA — Automatización de programación de turnos y reporte de nómina**  
-![VBA](https://img.shields.io/badge/VBA-Automatización-blue?style=flat-square) ![Excel](https://img.shields.io/badge/Excel-Avanzado-217346?style=flat-square&logo=microsoftexcel&logoColor=white) 
-> Sistema automatizado para la programación operativa de turnos, cálculo de novedades de nómina y generación de reportes para RRHH, enfocado en supervisión operativa y cumplimiento laboral.  
-> **Repo:** https://github.com/ingjaviergomezm/Programacion_Calculo_Reporte_Divulgacion_de_Turnos_Automatizado_VBA  
-> **Caso de uso:** Reporting · Supervisión operativa
+**Excel / VBA — Automatización de programación de turnos y reporte de nómina**
+![VBA](https://img.shields.io/badge/VBA-Automatización-blue?style=flat-square) ![Excel](https://img.shields.io/badge/Excel-Avanzado-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+> Sistema automatizado para la programación operativa de turnos, cálculo de novedades de nómina y generación de reportes para RRHH, enfocado en supervisión operativa y cumplimiento laboral.
+> **Repo:** https://github.com/ingjaviergomezm/Programacion_Calculo_Reporte_Divulgacion_de_Turnos_Automatizado_VBA
+
+---
 
 <div id="header" align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGFseDltbnNxanB3ZXB2ZmU4NWx5a3R1NWRtd3gzcXduZDJ5Y3BsNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H03PuVdwREB21ANkLX/giphy.gif" width="200"/>
