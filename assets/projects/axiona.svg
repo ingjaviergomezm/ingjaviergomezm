@@ -1,0 +1,84 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 280" width="1280" height="280" role="img" aria-label="Axiona antiprocrastinación — Productividad asistida por IA">
+  <style>
+    .fg{fill:#F5F1E8}.fg-dim{fill:#B5B0A4}.muted{fill:#7A776E}.faint{fill:#5A5750}
+    .stk-fg{stroke:#F5F1E8}.stk-mut{stroke:#3A3A33}.stk-bord{stroke:#2A2A24}.stk-acc{stroke:#F5B14C}
+    .accent{fill:#F5B14C}.accent-soft{fill:#F5B14C;fill-opacity:.12}.green{fill:#7AB87A}
+    .panel{fill:#15140F;fill-opacity:.55}.chip{fill:#1A1A16;fill-opacity:.6}
+    .serif{font-family:"Instrument Serif",Georgia,serif}
+    .sans{font-family:"Inter","Helvetica Neue",sans-serif}
+    .mono{font-family:"JetBrains Mono",ui-monospace,monospace}
+    @media (prefers-color-scheme: light){
+      .fg{fill:#1c1917}.fg-dim{fill:#44403c}.muted{fill:#78716c}.faint{fill:#a8a29e}
+      .stk-fg{stroke:#1c1917}.stk-mut{stroke:#d6d3d1}.stk-bord{stroke:#e7e5e4}
+      .panel{fill:#fafaf9;fill-opacity:.65}.chip{fill:#f5f5f4;fill-opacity:.7}
+    }
+  </style>
+  <rect width="1280" height="280" fill="none"/>
+
+  <!-- Esquinas decorativas -->
+  <g fill="none" class="stk-mut" stroke-width="1">
+    <path d="M 16 16 L 16 40 M 16 16 L 40 16"/>
+    <path d="M 1264 16 L 1264 40 M 1264 16 L 1240 16"/>
+    <path d="M 16 264 L 16 240 M 16 264 L 40 264"/>
+    <path d="M 1264 264 L 1264 240 M 1264 264 L 1240 264"/>
+  </g>
+
+  <!-- Stripe de cabecera -->
+  <g class="mono" font-size="10" letter-spacing="2">
+    <text x="48" y="42" class="accent">▸ WEBAPP · IA APLICADA</text>
+    <line x1="200" y1="38" x2="1100" y2="38" class="stk-bord" stroke-width="1"/>
+    <text x="1232" y="42" text-anchor="end" class="muted">github.com/ingjaviergomezm/Axiona</text>
+  </g>
+
+  <!-- Título -->
+  <g transform="translate(64, 80)">
+    <text class="serif fg" font-size="56" letter-spacing="-1.5">Axiona</text>
+    <text class="serif accent" y="56" font-size="56" letter-spacing="-1.5" font-style="italic">antiprocrastinación<tspan class="fg" font-style="normal">.</tspan></text>
+  </g>
+
+  <!-- Subtítulo -->
+  <text x="64" y="156" class="serif fg-dim" font-size="20" font-style="italic">Productividad asistida por IA</text>
+
+  <!-- Descripción 2-3 líneas -->
+  <text x="64" y="178" class="sans fg-dim" font-size="13">Web app React + Tailwind v4 que integra Matriz Eisenhower, Kanban y Pomodoro con coaching</text>
+      <text x="64" y="196" class="sans fg-dim" font-size="13">iterativo de Gemini API: desglosa tareas grandes, prioriza por urgencia/importancia y rinde</text>
+      <text x="64" y="214" class="sans fg-dim" font-size="13">feedback analítico tras cada bloque Pomodoro completado.</text>
+
+  <!-- Chips de tags (esquina inferior izq) -->
+  <g transform="translate(0, 226)">
+      <g transform="translate(64,0)"><rect width="47" height="22" rx="2" class="chip" stroke-width="1" class="stk-bord"/><rect width="47" height="22" rx="2" fill="none" stroke-width="1" class="stk-bord"/><text x="23.5" y="15" text-anchor="middle" class="mono fg-dim" font-size="10" letter-spacing="0.5">React</text></g>
+      <g transform="translate(119,0)"><rect width="89" height="22" rx="2" class="chip" stroke-width="1" class="stk-bord"/><rect width="89" height="22" rx="2" fill="none" stroke-width="1" class="stk-bord"/><text x="44.5" y="15" text-anchor="middle" class="mono fg-dim" font-size="10" letter-spacing="0.5">Tailwind v4</text></g>
+      <g transform="translate(216,0)"><rect width="82" height="22" rx="2" class="chip" stroke-width="1" class="stk-bord"/><rect width="82" height="22" rx="2" fill="none" stroke-width="1" class="stk-bord"/><text x="41.0" y="15" text-anchor="middle" class="mono fg-dim" font-size="10" letter-spacing="0.5">Gemini API</text></g>
+      <g transform="translate(306,0)"><rect width="40" height="22" rx="2" class="chip" stroke-width="1" class="stk-bord"/><rect width="40" height="22" rx="2" fill="none" stroke-width="1" class="stk-bord"/><text x="20.0" y="15" text-anchor="middle" class="mono fg-dim" font-size="10" letter-spacing="0.5">Vite</text></g>
+  </g>
+
+  <!-- Motivo visual lado derecho -->
+  <g transform="translate(820, 60)">
+    <g>
+    <g class="stk-bord" stroke-width="1" fill="none">
+      <rect x="0" y="0" width="80" height="160"/>
+      <rect x="92" y="0" width="80" height="160"/>
+      <rect x="184" y="0" width="80" height="160"/>
+    </g>
+    <g class="accent">
+      <rect x="8" y="12" width="64" height="14" fill-opacity="0.7"/>
+      <rect x="8" y="32" width="64" height="14" fill-opacity="0.5"/>
+      <rect x="8" y="52" width="64" height="14" fill-opacity="0.4"/>
+      <rect x="100" y="12" width="64" height="14" fill-opacity="0.85"/>
+      <rect x="100" y="32" width="64" height="14" fill-opacity="0.6"/>
+      <rect x="192" y="12" width="64" height="14" fill-opacity="0.7"/>
+    </g>
+    <g class="mono muted" font-size="9">
+      <text x="8" y="178">KANBAN · POMODORO · EISENHOWER</text>
+    </g>
+    <!-- Pomodoro -->
+    <g transform="translate(296, 60)">
+      <circle r="36" class="accent" fill-opacity="0.18"/>
+      <circle r="36" fill="none" class="stk-acc" stroke-width="1.5"/>
+      <line x1="0" y1="0" x2="0" y2="-26" class="stk-acc" stroke-width="2"/>
+      <line x1="0" y1="0" x2="20" y2="0" class="stk-acc" stroke-width="2"/>
+      <text y="60" text-anchor="middle" class="mono muted" font-size="10">25:00</text>
+    </g>
+  </g>
+  </g>
+</svg>

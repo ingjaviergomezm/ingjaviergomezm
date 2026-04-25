@@ -1,0 +1,99 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 280" width="1280" height="280" role="img" aria-label="VBA turnos — Programación operativa & nómina automatizada">
+  <style>
+    .fg{fill:#F5F1E8}.fg-dim{fill:#B5B0A4}.muted{fill:#7A776E}.faint{fill:#5A5750}
+    .stk-fg{stroke:#F5F1E8}.stk-mut{stroke:#3A3A33}.stk-bord{stroke:#2A2A24}.stk-acc{stroke:#F5B14C}
+    .accent{fill:#F5B14C}.accent-soft{fill:#F5B14C;fill-opacity:.12}.green{fill:#7AB87A}
+    .panel{fill:#15140F;fill-opacity:.55}.chip{fill:#1A1A16;fill-opacity:.6}
+    .serif{font-family:"Instrument Serif",Georgia,serif}
+    .sans{font-family:"Inter","Helvetica Neue",sans-serif}
+    .mono{font-family:"JetBrains Mono",ui-monospace,monospace}
+    @media (prefers-color-scheme: light){
+      .fg{fill:#1c1917}.fg-dim{fill:#44403c}.muted{fill:#78716c}.faint{fill:#a8a29e}
+      .stk-fg{stroke:#1c1917}.stk-mut{stroke:#d6d3d1}.stk-bord{stroke:#e7e5e4}
+      .panel{fill:#fafaf9;fill-opacity:.65}.chip{fill:#f5f5f4;fill-opacity:.7}
+    }
+  </style>
+  <rect width="1280" height="280" fill="none"/>
+
+  <!-- Esquinas decorativas -->
+  <g fill="none" class="stk-mut" stroke-width="1">
+    <path d="M 16 16 L 16 40 M 16 16 L 40 16"/>
+    <path d="M 1264 16 L 1264 40 M 1264 16 L 1240 16"/>
+    <path d="M 16 264 L 16 240 M 16 264 L 40 264"/>
+    <path d="M 1264 264 L 1264 240 M 1264 264 L 1240 264"/>
+  </g>
+
+  <!-- Stripe de cabecera -->
+  <g class="mono" font-size="10" letter-spacing="2">
+    <text x="48" y="42" class="accent">▸ AUTOMATIZACIÓN · DATA</text>
+    <line x1="200" y1="38" x2="1100" y2="38" class="stk-bord" stroke-width="1"/>
+    <text x="1232" y="42" text-anchor="end" class="muted">github.com/ingjaviergomezm/Programacion_Calculo_Reporte_Divulgacion_de_Turnos_Automatizado_VBA</text>
+  </g>
+
+  <!-- Título -->
+  <g transform="translate(64, 80)">
+    <text class="serif fg" font-size="56" letter-spacing="-1.5">VBA</text>
+    <text class="serif accent" y="56" font-size="56" letter-spacing="-1.5" font-style="italic">turnos<tspan class="fg" font-style="normal">.</tspan></text>
+  </g>
+
+  <!-- Subtítulo -->
+  <text x="64" y="156" class="serif fg-dim" font-size="20" font-style="italic">Programación operativa & nómina automatizada</text>
+
+  <!-- Descripción 2-3 líneas -->
+  <text x="64" y="178" class="sans fg-dim" font-size="13">Sistema en Excel + VBA para programar turnos de 12 horas, calcular automáticamente recargos</text>
+      <text x="64" y="196" class="sans fg-dim" font-size="13">(nocturnos, dominicales, festivos), generar reportes PDF firmables y exportar archivos de</text>
+      <text x="64" y="214" class="sans fg-dim" font-size="13">distribución, alineado con la legislación laboral colombiana.</text>
+
+  <!-- Chips de tags (esquina inferior izq) -->
+  <g transform="translate(0, 226)">
+      <g transform="translate(64,0)"><rect width="33" height="22" rx="2" class="chip" stroke-width="1" class="stk-bord"/><rect width="33" height="22" rx="2" fill="none" stroke-width="1" class="stk-bord"/><text x="16.5" y="15" text-anchor="middle" class="mono fg-dim" font-size="10" letter-spacing="0.5">VBA</text></g>
+      <g transform="translate(105,0)"><rect width="110" height="22" rx="2" class="chip" stroke-width="1" class="stk-bord"/><rect width="110" height="22" rx="2" fill="none" stroke-width="1" class="stk-bord"/><text x="55.0" y="15" text-anchor="middle" class="mono fg-dim" font-size="10" letter-spacing="0.5">Excel Avanzado</text></g>
+      <g transform="translate(223,0)"><rect width="54" height="22" rx="2" class="chip" stroke-width="1" class="stk-bord"/><rect width="54" height="22" rx="2" fill="none" stroke-width="1" class="stk-bord"/><text x="27.0" y="15" text-anchor="middle" class="mono fg-dim" font-size="10" letter-spacing="0.5">Nómina</text></g>
+      <g transform="translate(285,0)"><rect width="68" height="22" rx="2" class="chip" stroke-width="1" class="stk-bord"/><rect width="68" height="22" rx="2" fill="none" stroke-width="1" class="stk-bord"/><text x="34.0" y="15" text-anchor="middle" class="mono fg-dim" font-size="10" letter-spacing="0.5">Legal CO</text></g>
+  </g>
+
+  <!-- Motivo visual lado derecho -->
+  <g transform="translate(820, 60)">
+    <g>
+    <g class="stk-bord" stroke-width="1" fill="none">
+      <rect x="0" y="0" width="380" height="160"/>
+    </g>
+    <!-- Cabecera con días -->
+    <g class="mono muted" font-size="9">
+      <text x="20" y="14">L</text><text x="68" y="14">M</text><text x="116" y="14">M</text>
+      <text x="164" y="14">J</text><text x="212" y="14">V</text><text x="260" y="14">S</text><text x="308" y="14">D</text>
+    </g>
+    <!-- Grid 4×7 con celdas variables (turnos 12h) --><rect x="14" y="24" width="40" height="26" class="accent" fill-opacity="0.70"/>
+    <rect x="62" y="24" width="40" height="26" class="accent" fill-opacity="0.55"/>
+    <rect x="110" y="24" width="40" height="26" class="accent" fill-opacity="0.85"/>
+    <rect x="158" y="24" width="40" height="26" class="accent" fill-opacity="0.40"/>
+    <rect x="206" y="24" width="40" height="26" class="accent" fill-opacity="0.60"/>
+    <rect x="254" y="24" width="40" height="26" class="accent" fill-opacity="0.70"/>
+    <rect x="302" y="24" width="40" height="26" class="accent" fill-opacity="0.40"/>
+    <rect x="14" y="56" width="40" height="26" class="accent" fill-opacity="0.50"/>
+    <rect x="62" y="56" width="40" height="26" class="accent" fill-opacity="0.70"/>
+    <rect x="110" y="56" width="40" height="26" class="accent" fill-opacity="0.85"/>
+    <rect x="158" y="56" width="40" height="26" class="accent" fill-opacity="0.65"/>
+    <rect x="206" y="56" width="40" height="26" class="accent" fill-opacity="0.50"/>
+    <rect x="254" y="56" width="40" height="26" class="accent" fill-opacity="0.40"/>
+    <rect x="302" y="56" width="40" height="26" class="accent" fill-opacity="0.55"/>
+    <rect x="14" y="88" width="40" height="26" class="accent" fill-opacity="0.85"/>
+    <rect x="62" y="88" width="40" height="26" class="accent" fill-opacity="0.60"/>
+    <rect x="110" y="88" width="40" height="26" class="accent" fill-opacity="0.40"/>
+    <rect x="158" y="88" width="40" height="26" class="accent" fill-opacity="0.70"/>
+    <rect x="206" y="88" width="40" height="26" class="accent" fill-opacity="0.55"/>
+    <rect x="254" y="88" width="40" height="26" class="accent" fill-opacity="0.40"/>
+    <rect x="302" y="88" width="40" height="26" class="accent" fill-opacity="0.60"/>
+    <rect x="14" y="120" width="40" height="26" class="accent" fill-opacity="0.60"/>
+    <rect x="62" y="120" width="40" height="26" class="accent" fill-opacity="0.85"/>
+    <rect x="110" y="120" width="40" height="26" class="accent" fill-opacity="0.55"/>
+    <rect x="158" y="120" width="40" height="26" class="accent" fill-opacity="0.70"/>
+    <rect x="206" y="120" width="40" height="26" class="accent" fill-opacity="0.40"/>
+    <rect x="254" y="120" width="40" height="26" class="accent" fill-opacity="0.55"/>
+    <rect x="302" y="120" width="40" height="26" class="accent" fill-opacity="0.70"/>
+    <g class="mono muted" font-size="9" letter-spacing="2">
+      <text x="0" y="180">▸ TURNOS 12H · NÓMINA · LEY CO</text>
+    </g>
+  </g>
+  </g>
+</svg>
