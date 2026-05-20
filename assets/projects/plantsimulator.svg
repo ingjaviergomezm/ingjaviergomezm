@@ -1,0 +1,133 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 280" width="1280" height="280" role="img" aria-label="PlantSimulator — Editor PFD/P&amp;ID + simulador de alineaciones">
+  <style>
+    .fg{fill:#F5F1E8}.fg-dim{fill:#B5B0A4}.muted{fill:#7A776E}.faint{fill:#5A5750}
+    .stk-fg{stroke:#F5F1E8}.stk-mut{stroke:#3A3A33}.stk-bord{stroke:#2A2A24}.stk-acc{stroke:#F5B14C}
+    .accent{fill:#F5B14C}.accent-soft{fill:#F5B14C;fill-opacity:.12}.green{fill:#7AB87A}.red{fill:#D96565}
+    .stk-green{stroke:#7AB87A}.stk-red{stroke:#D96565}
+    .panel{fill:#15140F;fill-opacity:.55}.chip{fill:#1A1A16;fill-opacity:.6}
+    .serif{font-family:"Instrument Serif",Georgia,serif}
+    .sans{font-family:"Inter","Helvetica Neue",sans-serif}
+    .mono{font-family:"JetBrains Mono",ui-monospace,monospace}
+    @media (prefers-color-scheme: light){
+      .fg{fill:#1c1917}.fg-dim{fill:#44403c}.muted{fill:#78716c}.faint{fill:#a8a29e}
+      .stk-fg{stroke:#1c1917}.stk-mut{stroke:#d6d3d1}.stk-bord{stroke:#e7e5e4}
+      .panel{fill:#fafaf9;fill-opacity:.65}.chip{fill:#f5f5f4;fill-opacity:.7}
+    }
+  </style>
+  <rect width="1280" height="280" fill="none"/>
+
+  <!-- Esquinas decorativas -->
+  <g fill="none" class="stk-mut" stroke-width="1">
+    <path d="M 16 16 L 16 40 M 16 16 L 40 16"/>
+    <path d="M 1264 16 L 1264 40 M 1264 16 L 1240 16"/>
+    <path d="M 16 264 L 16 240 M 16 264 L 40 264"/>
+    <path d="M 1264 264 L 1264 240 M 1264 264 L 1240 264"/>
+  </g>
+
+  <!-- Stripe de cabecera -->
+  <g class="mono" font-size="10" letter-spacing="2">
+    <text x="48" y="42" class="accent">▸ HERRAMIENTA · OIL &amp; GAS</text>
+    <line x1="220" y1="38" x2="1100" y2="38" class="stk-bord" stroke-width="1"/>
+    <text x="1232" y="42" text-anchor="end" class="muted">github.com/ingjaviergomezm/plantsimulator-pfd</text>
+  </g>
+
+  <!-- Título -->
+  <g transform="translate(64, 80)">
+    <text class="serif fg" font-size="56" letter-spacing="-1.5">Plant</text>
+    <text class="serif accent" y="56" font-size="56" letter-spacing="-1.5" font-style="italic">simulator<tspan class="fg" font-style="normal">.</tspan></text>
+  </g>
+
+  <!-- Subtítulo -->
+  <text x="64" y="156" class="serif fg-dim" font-size="20" font-style="italic">Editor PFD/P&amp;ID + simulador de alineaciones</text>
+
+  <!-- Descripción 2-3 líneas -->
+  <text x="64" y="178" class="sans fg-dim" font-size="13">Aplicación web para construir el diagrama de proceso de estaciones de bombeo de hidrocarburos</text>
+  <text x="64" y="196" class="sans fg-dim" font-size="13">y visualizar la ruta de flujo activa según el estado de cada válvula. Catálogo amplio de equipos,</text>
+  <text x="64" y="214" class="sans fg-dim" font-size="13">edición avanzada (multi-selección, line hop, guías) y motor de cálculo por clusters y junctions.</text>
+
+  <!-- Chips de tags -->
+  <g transform="translate(0, 226)">
+    <g transform="translate(64,0)"><rect width="92" height="22" rx="2" class="chip"/><rect width="92" height="22" rx="2" fill="none" stroke-width="1" class="stk-bord"/><text x="46" y="15" text-anchor="middle" class="mono fg-dim" font-size="10" letter-spacing="0.5">ANSI/ISA-5.1</text></g>
+    <g transform="translate(164,0)"><rect width="68" height="22" rx="2" class="chip"/><rect width="68" height="22" rx="2" fill="none" stroke-width="1" class="stk-bord"/><text x="34" y="15" text-anchor="middle" class="mono fg-dim" font-size="10" letter-spacing="0.5">PFD/P&amp;ID</text></g>
+    <g transform="translate(240,0)"><rect width="68" height="22" rx="2" class="chip"/><rect width="68" height="22" rx="2" fill="none" stroke-width="1" class="stk-bord"/><text x="34" y="15" text-anchor="middle" class="mono fg-dim" font-size="10" letter-spacing="0.5">Oil &amp; Gas</text></g>
+    <g transform="translate(316,0)"><rect width="60" height="22" rx="2" class="chip"/><rect width="60" height="22" rx="2" fill="none" stroke-width="1" class="stk-bord"/><text x="30" y="15" text-anchor="middle" class="mono fg-dim" font-size="10" letter-spacing="0.5">SVG · JS</text></g>
+  </g>
+
+  <!-- Motivo visual lado derecho: PFD estilizado -->
+  <g transform="translate(820, 60)">
+    <!-- Tanque (cilindro vertical) -->
+    <g transform="translate(20, 30)">
+      <rect x="0" y="14" width="56" height="100" fill="none" class="stk-fg" stroke-width="1.4"/>
+      <ellipse cx="28" cy="14" rx="28" ry="6" fill="none" class="stk-fg" stroke-width="1.4"/>
+      <ellipse cx="28" cy="114" rx="28" ry="6" fill="none" class="stk-fg" stroke-width="1.4"/>
+      <!-- Nivel de líquido -->
+      <path d="M 2 70 L 54 70 L 54 110 A 28 6 0 0 1 2 110 Z" class="accent" fill-opacity="0.18"/>
+      <line x1="2" y1="70" x2="54" y2="70" class="stk-acc" stroke-width="1" stroke-dasharray="2 2"/>
+      <text x="28" y="138" text-anchor="middle" class="mono muted" font-size="9" letter-spacing="1">TK-101</text>
+    </g>
+
+    <!-- Tubería del tanque hacia la válvula (activa, verde) -->
+    <line x1="76" y1="94" x2="160" y2="94" class="stk-green" stroke-width="2.5"/>
+
+    <!-- Válvula de compuerta (bowtie horizontal) en estado A (abierta, verde) -->
+    <g transform="translate(160, 94)">
+      <!-- Vástago + actuador manual -->
+      <line x1="14" y1="0" x2="14" y2="-22" class="stk-fg" stroke-width="1.2"/>
+      <circle cx="14" cy="-26" r="5" fill="none" class="stk-fg" stroke-width="1.2"/>
+      <!-- Bowtie -->
+      <path d="M 0 -10 L 0 10 L 28 -10 L 28 10 Z" fill="none" class="stk-green" stroke-width="1.6"/>
+      <text x="14" y="32" text-anchor="middle" class="mono green" font-size="9" letter-spacing="1">A</text>
+    </g>
+
+    <!-- Tubería válvula → bomba (activa) -->
+    <line x1="188" y1="94" x2="244" y2="94" class="stk-green" stroke-width="2.5"/>
+
+    <!-- Bomba centrífuga -->
+    <g transform="translate(244, 94)">
+      <circle cx="22" cy="0" r="22" fill="none" class="stk-fg" stroke-width="1.4"/>
+      <!-- Brida de succión -->
+      <line x1="0" y1="-6" x2="0" y2="6" class="stk-fg" stroke-width="1.4"/>
+      <line x1="0" y1="0" x2="6" y2="0" class="stk-fg" stroke-width="1.4"/>
+      <!-- Brida de descarga (arriba) -->
+      <line x1="16" y1="-22" x2="28" y2="-22" class="stk-fg" stroke-width="1.4"/>
+      <line x1="22" y1="-22" x2="22" y2="-16" class="stk-fg" stroke-width="1.4"/>
+      <!-- Aspas -->
+      <path d="M 22 -14 L 32 4 L 12 4 Z" fill="none" class="stk-fg" stroke-width="1.2"/>
+      <text x="22" y="40" text-anchor="middle" class="mono muted" font-size="9" letter-spacing="1">P-101</text>
+    </g>
+
+    <!-- Tubería de descarga (activa, sube y dobla a la derecha) -->
+    <path d="M 266 72 L 266 50 L 360 50" fill="none" class="stk-green" stroke-width="2.5"/>
+
+    <!-- Flecha de flujo -->
+    <path d="M 360 50 L 352 46 L 352 54 Z" class="green"/>
+
+    <!-- Línea de bypass cerrada (en rojo, abajo) -->
+    <path d="M 188 94 L 188 140 L 290 140" fill="none" class="stk-red" stroke-width="2" stroke-dasharray="3 2"/>
+
+    <!-- Válvula en el bypass (cerrada, roja) -->
+    <g transform="translate(225, 140)">
+      <line x1="14" y1="0" x2="14" y2="-22" class="stk-fg" stroke-width="1.2"/>
+      <circle cx="14" cy="-26" r="5" fill="none" class="stk-fg" stroke-width="1.2"/>
+      <path d="M 0 -10 L 0 10 L 28 -10 L 28 10 Z" class="red" fill-opacity="0.18" stroke="#D96565" stroke-width="1.6"/>
+      <text x="14" y="26" text-anchor="middle" class="mono red" font-size="9" letter-spacing="1">C</text>
+    </g>
+
+    <!-- Recuadro de leyenda con escenario -->
+    <g transform="translate(290, 130)">
+      <rect width="130" height="62" rx="2" class="chip"/>
+      <rect width="130" height="62" rx="2" fill="none" stroke-width="1" class="stk-bord"/>
+      <text x="10" y="18" class="mono fg-dim" font-size="9" letter-spacing="1">ESCENARIO 03</text>
+      <text x="10" y="34" class="mono muted" font-size="9" letter-spacing="0.5">Alineación normal</text>
+      <g transform="translate(10, 44)">
+        <circle cx="3" cy="3" r="3" class="green"/>
+        <text x="12" y="6" class="mono fg-dim" font-size="9">Abierta</text>
+        <circle cx="62" cy="3" r="3" class="red"/>
+        <text x="72" y="6" class="mono fg-dim" font-size="9">Cerrada</text>
+      </g>
+    </g>
+
+    <!-- Etiqueta inferior -->
+    <text x="0" y="200" class="mono muted" font-size="10" letter-spacing="2">▸ PFD · RUTA DE FLUJO ACTIVA</text>
+  </g>
+</svg>

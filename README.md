@@ -133,6 +133,10 @@ Ingeniero Industrial con **10+ años de experiencia** en operación, mejora cont
 > **Repo:** https://github.com/ingjaviergomezm/autodiagnostico-eficiencia-energetica
 > **Demo:** https://ingjaviergomezm.github.io/autodiagnostico-eficiencia-energetica/
 
+<a href="https://github.com/ingjaviergomezm/plantsimulator-pfd">
+  <img src="./assets/projects/plantsimulator.svg" alt="PlantSimulator — Editor PFD/P&ID + simulador de alineaciones" width="100%" />
+</a>
+
 > **PlantSimulator — editor de PFD/P&ID + simulador de alineaciones operativas.**
 > Aplicación web para construir el diagrama de proceso de estaciones de bombeo de hidrocarburos y visualizar la ruta de flujo activa según el estado normal de cada válvula/bomba. Catálogo amplio de equipos (tanques, vasijas, separadores, trampas de raspadores, sumideros con arreglo típico, mezcladores estáticos, LACT, fronteras, válvulas HV/MOV/PCV…), servicios de tubería con código de color, edición avanzada (multi-selección Ctrl+click, arrastre por tramos manteniendo ortogonalidad, guías de alineación, *line hop* automático en cruces) y motor de cálculo de ruta de flujo (clusters, terminales, bloqueos, junctions virtuales). Cumple con simbología **ANSI/ISA-5.1 (2024)**. Demo público sin datos reales; código fuente privado.
 > **Repo (showcase + manual):** https://github.com/ingjaviergomezm/plantsimulator-pfd
