@@ -50,7 +50,7 @@ Ingeniero Industrial con **10+ años de experiencia** en operación, mejora cont
 
 > *"Si es medible, es mejorable"* — método antes que herramienta.
 
-**Keywords:** `AI/ML` · `Process Automation` · `Data Analytics` · `Agentic AI` · `LLM Orchestration` · `Multi-Agent Systems` · `RAG Systems` · `MCP` · `Python` · `SQL` · `Power BI` · `VBA` · `FastAPI` · `LangGraph` · `ChromaDB` · `ISO 50001` · `ISO 14224` · `Energy Efficiency` · `Oil & Gas Operations` · `Continuous Improvement`
+**Keywords:** `AI/ML` · `Process Automation` · `Data Analytics` · `Agentic AI` · `LLM Orchestration` · `Multi-Agent Systems` · `RAG Systems` · `MCP` · `Python` · `SQL` · `Power BI` · `VBA` · `FastAPI` · `LangGraph` · `ChromaDB` · `Claude Skills` · `ISO 50001` · `ISO 50006` · `ISO 14224` · `Energy Efficiency` · `Renewable Energy` · `Colombian Power Market` · `Oil & Gas Operations` · `Continuous Improvement`
 
 ---
 
@@ -114,6 +114,14 @@ Ingeniero Industrial con **10+ años de experiencia** en operación, mejora cont
 ---
 
 ### `◈` Energía, operaciones & eficiencia
+
+<a href="https://github.com/ingjaviergomezm/Especialista_en_EREE">
+  <img src="./assets/projects/eree.svg" alt="Especialista en EREE — Tres skills de Claude para trabajo de campo en energía" width="100%" />
+</a>
+
+> **Especialista en EREE — tres skills de Claude para trabajo de campo en energía.**
+> Convertí la Especialización en Energías Renovables y Eficiencia Energética (UAM) en método ejecutable: `proyectos-er` (prefactibilidad FV, eólica, PCH y biomasa, con VPN, TIR, LCOE y P90), `gestion-energetica` (auditoría ISO 50002-1, línea base ISO 50006, CUSUM y medidas de ahorro con costo-beneficio) y `mercado-electrico-co` (bolsa frente a contratos, usuario no regulado, despacho por mérito y excedentes CREG). El humano está siempre en el ciclo: entrevista, Registro de Supuestos aprobado, norma verificada en vivo y compuertas antes de entregar. Ningún dato se inventa. **149 pruebas** reproducen exactamente los ejercicios de los profesores, y una revisión adversarial independiente auditó el método.
+> **Repo:** https://github.com/ingjaviergomezm/Especialista_en_EREE
 
 <a href="https://github.com/ingjaviergomezm/solar-project-planner">
   <img src="./assets/projects/solar.svg" alt="Solar Project Planner" width="100%" />
