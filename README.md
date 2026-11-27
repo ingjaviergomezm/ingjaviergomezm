@@ -12,7 +12,7 @@
 <p align="center">
   <a href="https://ingjaviergomezm.github.io/"><img alt="Portafolio" src="https://img.shields.io/badge/▶_PORTAFOLIO-ingjaviergomezm.github.io-F5B14C?style=for-the-badge&labelColor=0E0E0C"/></a>
   <a href="https://github.com/ingjaviergomezm/prisma"><img alt="Prisma" src="https://img.shields.io/badge/💠_PRISMA-orquestador-F5B14C?style=for-the-badge&labelColor=0E0E0C"/></a>
-  <a href="https://www.linkedin.com/in/ingjaviergomezm/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-ingjaviergomezm-B5B0A4?style=for-the-badge&labelColor=0E0E0C&logo=linkedin&logoColor=B5B0A4"/></a>
+  <a href="https://www.linkedin.com/in/jogomezm/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-jogomezm-B5B0A4?style=for-the-badge&labelColor=0E0E0C&logo=linkedin&logoColor=B5B0A4"/></a>
   <a href="mailto:ingjaviergomez222@gmail.com"><img alt="Email" src="https://img.shields.io/badge/✉-escríbeme-B5B0A4?style=for-the-badge&labelColor=0E0E0C"/></a>
   <img alt="Status" src="https://img.shields.io/badge/●_disponible-7AB87A?style=for-the-badge&labelColor=0E0E0C"/>
 </p>
@@ -217,7 +217,7 @@ Disponible para proyectos donde el método importa más que el modelo —y donde
 <p>
   <a href="https://ingjaviergomezm.github.io/"><img alt="Portafolio completo" src="https://img.shields.io/badge/▶_VER_PORTAFOLIO_COMPLETO-F5B14C?style=for-the-badge&labelColor=0E0E0C"/></a>
   <a href="mailto:ingjaviergomez222@gmail.com"><img alt="Escríbeme" src="https://img.shields.io/badge/✉_ESCRÍBEME-B5B0A4?style=for-the-badge&labelColor=0E0E0C"/></a>
-  <a href="https://www.linkedin.com/in/ingjaviergomezm/"><img alt="LinkedIn" src="https://img.shields.io/badge/⌘_LINKEDIN-B5B0A4?style=for-the-badge&labelColor=0E0E0C"/></a>
+  <a href="https://www.linkedin.com/in/jogomezm/"><img alt="LinkedIn" src="https://img.shields.io/badge/⌘_LINKEDIN-B5B0A4?style=for-the-badge&labelColor=0E0E0C"/></a>
 </p>
 
 <sub>
