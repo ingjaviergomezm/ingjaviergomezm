@@ -222,6 +222,7 @@ Disponible para proyectos donde el método importa más que el modelo —y donde
 
 <sub>
 <code>© 2026 Javier Gómez · Colombia · UTC-05</code> &nbsp;·&nbsp;
+<a href="https://github.com/ingjaviergomezm/ingjaviergomezm/blob/main/LICENSE"><code>todos los derechos reservados</code></a> &nbsp;·&nbsp;
 <code>diseñado para iterar</code> &nbsp;·&nbsp;
 <i>"Si es medible, es mejorable"</i>
 </sub>
