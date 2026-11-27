@@ -201,11 +201,9 @@ Ingeniero Industrial con **10+ años de experiencia** en operación, mejora cont
 </tr>
 </table>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ingjaviergomezm&bg_color=00000000&color=E8E4DC&line=F5B14C&point=F5B14C&area=true&area_color=F5B14C&hide_border=true&custom_title=CONTRIBUCIONES%20·%20últimos%2012%20meses" alt="Actividad" width="100%" />
-
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=ingjaviergomezm&theme=monokai&no-frame=true&no-bg=true&column=7&margin-w=12" alt="Logros" width="100%" />
-</a>
+<p align="center">
+  <img src="./github-metrics-actividad.svg" alt="Calendario de contribuciones del último año" />
+</p>
 
 ---
 
